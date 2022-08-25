@@ -7,4 +7,4 @@ With the increased use of data science projects for improving various functions 
 
 # Lectures:
 * <a href="Lecture 1 - A Short History and Current State of Artificial Intelligence.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
-* <a href="Lecture 2 - Data Types in Python/DataYpes.ipynb">Lecture 2 - Data Types in Python</a>
+* <a href="Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb">Lecture 2 - Data Types in Python</a>
