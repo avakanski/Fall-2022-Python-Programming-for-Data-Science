@@ -1,5 +1,5 @@
 # CS 404/504 – Special Topics: Python Programming for Data Science
-[University of Idaho](https://www.uidaho.edu) - Department of Computer Science(https://www.uidaho.edu/engr/departments/cs)
+[University of Idaho](https://www.uidaho.edu) - [Department of Computer Science](https://www.uidaho.edu/engr/departments/cs)
 
 Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html)
 
