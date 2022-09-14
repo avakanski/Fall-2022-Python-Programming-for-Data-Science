@@ -16,6 +16,7 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Tutorial 1 - Python IDE, Jupyter Notebook/Tutorial 1 - Python IDE.ipynb">Tutorial 1 - Python IDE, Jupyter Notebook</a>
 * <a href="Lecture 6 - Exceptions, Modules, Packages/Lecture 6 - Exceptions, Modules, Packages.ipynb">Lecture 6 - Exceptions, Modules, Packages</a>
 * <a href="Lecture 7 - Decorators/Lecture 7 - Decorators.ipynb">Lecture 7 - Decorators</a>
+* <a href="Lecture 8 - Functional Programming, Callbacks, Closures/Lecture 8 - Functional Programming, Callbacks, Closures.ipynb">Lecture 8 - Functional Programming, Callbacks, Closures</a>
 
 # Course Description
 With the increased use of data science projects for improving various functions and operations across organizations, the tools for managing such projects have matured as well. This course introduces students to Python tools and libraries that are commonly used by organizations for management of the different phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the basics of Python programming and extends it with advanced concepts. The second theme focuses on data engineering, and covers Python tools for data collection and exploration. The next theme overviews model engineering, and includes model design, training, testing, optimization, and packaging. The last theme introduces Data Science Operations (DSOps), and covers techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production.
