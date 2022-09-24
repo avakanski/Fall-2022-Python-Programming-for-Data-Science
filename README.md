@@ -21,7 +21,7 @@ Semester: Fall 2022 (August 22 – December 16)
 ## Theme 2: Data Engineering Pipelines
 * <a href="Lecture 9 - NumPy for Array Operations/Lecture 9 - NumPy for Array Operations.ipynb">Lecture 9 - NumPy for Array Operations</a>
 * <a href="Lecture 10 - Data Manipulation with Pandas/Lecture 10 - Data Manipulation with Pandas.ipynb">Lecture 10 - Data Manipulation with Pandas</a>
-* <a href="Lecture 11 - Data Vizualization with Matplotlib/Lecture 11 - Data Vizualization with Matplotlib.ipynb">Lecture 11 - Data Vizualization with Matplotlib</a>
+* <a href="Lecture 11 - Data Visualization with Matplotlib/Lecture 11 - Data Visualization with Matplotlib.ipynb">Lecture 11 - Data Visualization with Matplotlib</a>
 
 
 # Course Description
