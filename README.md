@@ -11,18 +11,18 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Lecture 1 - A Short History of AI/Lecture 1 - A Short History of AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ## Theme 1: Python Programming
 * <a href="Lectures/Theme 1 - Python Programming/Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb">Lecture 2 - Data Types in Python</a>
-* <a href="Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb">Lecture 3 - Statements, Files</a>
-* <a href="Lecture 4 - Functions, Iterators, Generators/Lecture 4 - Functions, Iterators, Generators.ipynb">Lecture 4 - Functions, Iterators, Generators</a>
-* <a href="Lecture 5 - Object-Oriented Programming/Lecture 5 - OOP.ipynb">Lecture 5 - Object-Oriented Programming</a>
-* <a href="Tutorial 1 - Python IDE, Jupyter Notebook/Tutorial 1 - Python IDE.ipynb">Tutorial 1 - Python IDE, Jupyter Notebook</a>
-* <a href="Lecture 6 - Exceptions, Modules, Packages/Lecture 6 - Exceptions, Modules, Packages.ipynb">Lecture 6 - Exceptions, Modules, Packages</a>
-* <a href="Lecture 7 - Decorators/Lecture 7 - Decorators.ipynb">Lecture 7 - Decorators</a>
-* <a href="Lecture 8 - Functional Programming, Callbacks, Closures/Lecture 8 - Functional Programming, Callbacks, Closures.ipynb">Lecture 8 - Functional Programming, Callbacks, Closures</a>
+* <a href="Lectures/Theme 1 - Python Programming/Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb">Lecture 3 - Statements, Files</a>
+* <a href="Lectures/Theme 1 - Python Programming/Lecture 4 - Functions, Iterators, Generators/Lecture 4 - Functions, Iterators, Generators.ipynb">Lecture 4 - Functions, Iterators, Generators</a>
+* <a href="Lectures/Theme 1 - Python Programming/Lecture 5 - Object-Oriented Programming/Lecture 5 - OOP.ipynb">Lecture 5 - Object-Oriented Programming</a>
+* <a href="Lectures/Theme 1 - Python Programming/Tutorial 1 - Python IDE, Jupyter Notebook/Tutorial 1 - Python IDE.ipynb">Tutorial 1 - Python IDE, Jupyter Notebook</a>
+* <a href="Lectures/Theme 1 - Python Programming/Lecture 6 - Exceptions, Modules, Packages/Lecture 6 - Exceptions, Modules, Packages.ipynb">Lecture 6 - Exceptions, Modules, Packages</a>
+* <a href="Lectures/Theme 1 - Python Programming/Lecture 7 - Decorators/Lecture 7 - Decorators.ipynb">Lecture 7 - Decorators</a>
+* <a href="Lectures/Theme 1 - Python Programming/Lecture 8 - Functional Programming, Callbacks, Closures/Lecture 8 - Functional Programming, Callbacks, Closures.ipynb">Lecture 8 - Functional Programming, Callbacks, Closures</a>
 ## Theme 2: Data Engineering Pipelines
-* <a href="Lecture 9 - NumPy for Array Operations/Lecture 9 - NumPy for Array Operations.ipynb">Lecture 9 - NumPy for Array Operations</a>
-* <a href="Lecture 10 - Data Manipulation with Pandas/Lecture 10 - Data Manipulation with Pandas.ipynb">Lecture 10 - Data Manipulation with Pandas</a>
-* <a href="Lecture 11 - Data Visualization with Matplotlib/Lecture 11 - Data Visualization with Matplotlib.ipynb">Lecture 11 - Data Visualization with Matplotlib</a>
-* <a href="Lecture 12 - Scikit-Learn for Data Science/Lecture 12 - Scikit-Learn for Data Science.ipynb">Lecture 12 - Scikit-Learn Library for Data Science</a>
+* <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 9 - NumPy for Array Operations/Lecture 9 - NumPy for Array Operations.ipynb">Lecture 9 - NumPy for Array Operations</a>
+* <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 10 - Data Manipulation with Pandas/Lecture 10 - Data Manipulation with Pandas.ipynb">Lecture 10 - Data Manipulation with Pandas</a>
+* <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 11 - Data Visualization with Matplotlib/Lecture 11 - Data Visualization with Matplotlib.ipynb">Lecture 11 - Data Visualization with Matplotlib</a>
+* <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 12 - Scikit-Learn for Data Science/Lecture 12 - Scikit-Learn for Data Science.ipynb">Lecture 12 - Scikit-Learn Library for Data Science</a>
 
 # Course Description
 With the increased use of data science projects for improving various functions and operations across organizations, the tools for managing such projects have matured as well. This course introduces students to Python tools and libraries that are commonly used by organizations for management of the different phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the basics of Python programming and extends it with advanced concepts. The second theme focuses on data engineering, and covers Python tools for data collection and exploration. The next theme overviews model engineering, and includes model design, training, testing, optimization, and packaging. The last theme introduces Data Science Operations (DSOps), and covers techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production.
