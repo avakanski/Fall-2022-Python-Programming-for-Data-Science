@@ -8,7 +8,7 @@ Semester: Fall 2022 (August 22 – December 16)
 <a href="CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf">Course Syllabus</a>
 
 # Lectures:
-* <a href="Lecture 1 - A Short History of AI/Lecture 1 - A Short History of AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
+* <a href="Lectures/Lecture 1 - A Short History of AI/Lecture 1 - A Short History of AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ## Theme 1: Python Programming
 * <a href="Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb">Lecture 2 - Data Types in Python</a>
 * <a href="Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb">Lecture 3 - Statements, Files</a>
