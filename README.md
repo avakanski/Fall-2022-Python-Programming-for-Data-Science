@@ -26,6 +26,10 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Tutorial 4 - TensorFlow/Tutorial 4 - TensorFlow.ipynb">Tutorial 4 - TensorFlow</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 13 - Data Exploration and Preprocessing/Lecture 13 - Data Exploration and Preprocessing.ipynb">Lecture 13 - Data Exploration and Preprocessing</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 14 - Feature Engineering/Lecture 14 - Feature Engineering.ipynb">Lecture 14 - Feature Engineering</a>
+## Theme 3:Model Engineering Pipelines
+* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 15 - Ensemble Methods/Lecture 15 - Ensemble Methods.ipynb">Lecture 15 - Ensemble Methods</a>
+
+
 
 # Course Description
 With the increased use of data science projects for improving various functions and operations across organizations, the tools for managing such projects have matured as well. This course introduces students to Python tools and libraries that are commonly used by organizations for management of the different phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the basics of Python programming and extends it with advanced concepts. The second theme focuses on data engineering, and covers Python tools for data collection and exploration. The next theme overviews model engineering, and includes model design, training, testing, optimization, and packaging. The last theme introduces Data Science Operations (DSOps), and covers techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production.
