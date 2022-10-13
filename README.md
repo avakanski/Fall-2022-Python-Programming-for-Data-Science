@@ -28,7 +28,7 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 14 - Feature Engineering/Lecture 14 - Feature Engineering.ipynb">Lecture 14 - Feature Engineering</a>
 ## Theme 3:Model Engineering Pipelines
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 15 - Ensemble Methods/Lecture 15 - Ensemble Methods.ipynb">Lecture 15 - Ensemble Methods</a>
-* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 16 - Convolutional Neural Networks/Lecture - 16 Convolutional Neural Networks with Keras and TensorFlow.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
+* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 16 - Convolutional Neural Networks/Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
 
 
 
