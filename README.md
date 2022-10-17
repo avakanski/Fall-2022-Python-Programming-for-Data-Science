@@ -29,6 +29,7 @@ Semester: Fall 2022 (August 22 – December 16)
 ## Theme 3:Model Engineering Pipelines
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 15 - Ensemble Methods/Lecture 15 - Ensemble Methods.ipynb">Lecture 15 - Ensemble Methods</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 16 - Convolutional Neural Networks/Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
+* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Tutorial 5 - PyTorch/Tutorial 5 - PyTorch.ipynb">Tutorial 5 - PyTorch</a>
 
 
 
