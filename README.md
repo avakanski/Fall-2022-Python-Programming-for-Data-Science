@@ -32,6 +32,7 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Tutorial 5 - PyTorch/Tutorial 5 - PyTorch.ipynb">Tutorial 5 - PyTorch</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 17 - Convolutional NN with PyTorch/Lecture 17 - Convolutional NN with PyTorch.ipynb">Lecture 17 - Convolutional Neural Networks with PyTorch</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 18 - Natural Language Processing/Lecture 18 - Natural Language Processing.ipynb">Lecture 18 - Natural Language Processing</a>
+* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 19 - Transformer Networks/Lecture 19 - Transformer Networks.ipynb">Lecture 19 - Transformer Networks</a>
 
 
 
