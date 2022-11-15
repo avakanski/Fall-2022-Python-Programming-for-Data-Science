@@ -37,7 +37,8 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 20 - Language Models with Hugging Face/Lecture 20 - Language Models with Hugging Face.ipynb">Lecture 20 - Language Models with Hugging Face</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 21 - Model Selection, Hyperparameter Tuning/Lecture 21 - Model Selection, Hyperparameter Tuning.ipynb">Lecture 21 - Model Selection, Hyperparameter Tuning</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 22 - Diffusion Models/Lecture 22 - Diffusion Models.ipynb">Lecture 22 - Diffusion Models for Text-to-Image Generation</a>
-* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture_24_SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
+## Theme 4: Model Deployment Pipelines
+* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 24 - SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
 
 
 
