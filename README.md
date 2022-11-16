@@ -39,6 +39,8 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 22 - Diffusion Models/Lecture 22 - Diffusion Models.ipynb">Lecture 22 - Diffusion Models for Text-to-Image Generation</a>
 ## Theme 4: Model Deployment Pipelines
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 24 - SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
+* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 9 - Web Scraping/Tutorial 9 - Web Scraping.ipynb">Tutorial 9 - Web Scraping</a>
+
 
 
 
