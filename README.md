@@ -41,7 +41,7 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 24 - SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 9 - Web Scraping/Tutorial 9 - Web Scraping.ipynb">Tutorial 9 - Web Scraping</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 25 - Deploying Projects as Web Apps/Lecture 25 - Deploying Projects as Web Apps.ipynb">Lecture 25 - Deploying Projects as Web Applications</a>
-* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 10 - Virutal Environments/Tutorial 10 - Virutal Environments.ipynb">Tutorial 10 - Virutal Environments</a>
+* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 10 - Virtual Environments/Tutorial 10 - Virtual Environments.ipynb">Tutorial 10 - Virtual Environments</a>
 
 
 
