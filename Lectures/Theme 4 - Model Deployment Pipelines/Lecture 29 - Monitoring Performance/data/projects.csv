@@ -1,0 +1,1020 @@
+text,label
+Comparison between YOLO and RCNN on real world videos Bringing theory to experiment is cool. We can easily train models in colab and find the results in minutes.,computer-vision
+"Show, Infer & Tell: Contextual Inference for Creative Captioning The beauty of the work lies in the way it architects the fundamental idea that humans look at the overall image and then individual pieces of it.
+",computer-vision
+"Awesome Graph Classification A collection of important graph embedding, classification and representation learning papers with implementations.",graph-learning
+Awesome Monte Carlo Tree Search A curated list of Monte Carlo tree search papers with implementations. ,reinforcement-learning
+Diffusion to Vector Reference implementation of Diffusion2Vec (Complenet 2018) built on Gensim and NetworkX. ,graph-learning
+"AttentionWalk A PyTorch Implementation of ""Watch Your Step: Learning Node Embeddings via Graph Attention"" (NeurIPS 2018). ",graph-learning
+"Graph Wavelet Neural Network A PyTorch implementation of ""Graph Wavelet Neural Network"" (ICLR 2019) ",graph-learning
+"APPNP and PPNP A PyTorch implementation of ""Predict then Propagate: Graph Neural Networks meet Personalized PageRank"" (ICLR 2019). ",graph-learning
+"Attributed Social Network Embedding A sparsity aware and memory efficient implementation of ""Attributed Social Network Embedding"" (TKDE 2018). ",graph-learning
+"Signed Graph Convolutional Network A PyTorch implementation of ""Signed Graph Convolutional Network"" (ICDM 2018). ",graph-learning
+"Capsule Graph Neural Network A PyTorch implementation of ""Capsule Graph Neural Network"" (ICLR 2019).",graph-learning
+"SimGNN A PyTorch implementation of ""SimGNN: A Neural Network Approach to Fast Graph Similarity Computation"" (WSDM 2019). ",graph-learning
+Using JAX to Improve Separable Image Filters Optimizing the filters to improve the filtered images for computer vision tasks.,computer-vision
+Coloring Greyscale Images Coloring black and white images with neural networks.,computer-vision
+"Fruit Detection using Convolution Neural Networks in TensorFlow Trained a Convolutional Neural Network Model to predict fruits of over 100+ Classes (types) with a training accuracy of over 95%, and testing accuracy of over 9",computer-vision
+Face Verification Implementation of Siamese Neural network model used for face verification. The dataset used for this task is IMDB-WIKI-face images Dataset.,computer-vision
+"Sign Language Interpreter using Deep Learning A sign language interpreter using live video feed from the camera. The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's ",computer-vision
+The Illustrated Self-Supervised Learning A visual introduction to self-supervised learning methods in Computer Vision,computer-vision
+NeRF: Neural Radiance Fields Representing scenes as neural radiance fields for view synthesis.,computer-vision
+GradCAM for the BreaKHis Dataset An NBDev package for fine-tuning ResNets to visualize gradient-weighted class activation for the BreaKHis dataset.,computer-vision
+"Mention Classifier Category prediction model
+This repo contains AllenNLP model for prediction of Named Entity categories by its mentions.",natural-language-processing
+Message Passing GNNs C++ C++ implementation using Eigen for the forward pass of Graph Convolutional Neural Networks.,graph-learning
+"Rethinking Batch Normalization in Transformers We found that NLP batch statistics exhibit large variance throughout training, which leads to poor BN performance.",natural-language-processing
+Pytest Board Continuous pytest runner with awesome visualization.,mlops
+"Image Spam Buster - Kreate Hackathon ""Spam Buster"" for user generated IMAGE content.",computer-vision
+Bachelorette Predictor Predict the Bachelorette winners from profile images.,computer-vision
+Gender Change of People's Face using CycleGAN CycleGAN architecture in Keras and train the model with CelebA faces dataset to perform gender change on people's faces.,computer-vision
+ELECTRA: Pre-training Text Encoders as Discriminators PyTorch implementation of the electra model from the paper: ELECTRA - Pre-training Text Encoders as Discriminators Rather Than Generators,natural-language-processing
+Plant Fruit Classifier Building a world-class image classifier model with a custom dataset.,computer-vision
+Tuned ALBERT (ensemble model) Top 6 in Squad 2.0,natural-language-processing
+iyasai: Book Recommendation System Recommender system for books and stories that could help you and your loved ones lift up your mood whenever you are facing stress or unpleasant situations.,natural-language-processing
+Learning to See before Learning to Act: Visual Pre-training We find that pre-training on vision tasks significantly improves generalization and sample efficiency for learning to manipulate objects.,computer-vision
+"SOLT: Data Augmentation for Deep Learning Data augmentation library for Deep Learning, which supports images, segmentation masks, labels and key points.",computer-vision
+PCDet: 3D Point Cloud Detection PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud,computer-vision
+"SiamFC++: Towards Robust and Accurate Visual Tracking Implementation of a series of basic algorithms which is useful for video understanding, including Single Object Tracking (SOT), Video Object Segmentation (VOS).",computer-vision
+Sinext Sign language to text with OpenCV and MNIST sign-language dataset,computer-vision
+Gliding Vertex on Horizontal Bounding Box for Object Detection Gliding vertex on the horizontal bounding box for multi-oriented object detection.,computer-vision
+Deep Reinforcement Learning in TensorFlow2 deep-rl-tf2 is a repository that implements a variety of polular Deep-RL algorithms using TF2. The key to this repo is an easy to understand code. ,reinforcement-learning
+Custom Classifier on Top of Bert-like Language Model Take pre-trained language model and build custom classifier on top of it.,natural-language-processing
+Using Different Decoding Methods for LM with Transformers A look at different decoding methods for generate subsequent tokens in language modeling.,natural-language-processing
+"Unsupervised Toolbox Unsupervised learning Tool box : A micro framework for State of the Art Methods and models for unsupervised learning for NLU / NLG
+",natural-language-processing
+Unet Implementation is Keras with GPU Vector Map generation from aerial imagery using deep learning GeoSpatial UNET,computer-vision
+Multimodal Brain Tumor Segmentation Segmentation of gliomas in pre-operative MRI scans. Use the provided clinically-acquired training data to produce segmentation labels.,computer-vision
+"Gymnast Pose Analysis Pose modelling for gymnasts using open-pose and open-cv.
+",computer-vision
+EfficientDet: Scalable and Efficient Object Detection Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch.,computer-vision
+A Survey of Long-Term Context in Transformers Over the past two years the NLP community has developed a veritable zoo of methods to combat expensive multi-head self-attention.,natural-language-processing
+Finetune: Scikit-learn Style Model Finetuning for NLP Finetune is a library that allows users to leverage state-of-the-art pretrained NLP models for a wide variety of downstream tasks.,natural-language-processing
+Debugging Neural Networks with PyTorch and W&B A closer look at debugging common issues when training neural networks.,mlops
+BachGAN: High-Res Image Synthesis from Salient Object Layout We propose a new task towards more practical application for image generation - high-quality image synthesis from salient object layout. ,computer-vision
+Visual Paper Summary: ALBERT(A Lite BERT) An illustrated summary of ALBERT paper and how it improves BERT and makes it resource efficient,natural-language-processing
+First Order Motion Model for Image Animation Generating a video sequence so that an object in a source image is animated according to the motion of a driving video.,computer-vision
+TorchIO:  Medical Image Processing in Deep Learning and PyTorch Tools for medical image processing in deep learning and PyTorch,computer-vision
+"Finetuning Transformers with JAX + Haiku Walking through a port of the RoBERTa pre-trained model to JAX + Haiku, then fine-tuning the model to solve a downstream task.",natural-language-processing
+"Controllable Person Image Synthesis with Attribute-Decomposed GAN A novel generative model for controllable person image synthesis, which can produce realistic person images with desired human attributes.",computer-vision
+Back Translation for Text Augmentation with Google Sheets Learn how to augment existing labeled text data for free using Google Sheets.,natural-language-processing
+An Illustrated Guide to Graph Neural Networks A breakdown of the inner workings of GNNs.,graph-learning
+The Illustrated FixMatch for Semi-Supervised Learning Learn how to leverage unlabeled data using FixMatch for semi-supervised learning,computer-vision
+A Two-Step Graph Convolutional Decoder for Molecule Generation A simple auto-encoder framework for molecule generation.,graph-learning
+TransMoMo: Invariance-Driven Unsupervised Motion Retargeting A lightweight video motion retargeting approach that is capable of transferring motion of a person in a source video realistically to another video of a target ,computer-vision
+Tracking Objects as Points Simultaneous object detection and tracking using center points.,computer-vision
+Drifter-ML A machine learning testing framework for sklearn and pandas.  The goal is to help folks assess whether things have changed over time.,mlops
+Natural Language Processing News Get the highlights from Natural Language Processing & Machine Learning research & industry straight to your inbox every month.,natural-language-processing
+"NLP Newsletter Democratizing Artificial Intelligence Research, Education, and Technologies.",natural-language-processing
+"Self-Supervised Scene De-occlusion We investigate the problem of scene de-occlusion, which aims to recover the underlying occlusion ordering and complete the invisible parts of occluded objects.",computer-vision
+Design Patterns for Production NLP Systems Designs and tips for designing NLP production systems.,natural-language-processing
+"Talking-Heads Attention A variation on multi-head attention which includes linear projections across the attention-heads dimension, immediately before and after the softmax operation.",natural-language-processing
+What does a CNN see? First super clean notebook showcasing @TensorFlow 2.0. An example of end-to-end DL with interpretability.,computer-vision
+Distributional RL using TensorFlow2 🐳 Implementation of various Distributional Reinforcement Learning Algorithms using TensorFlow2.,reinforcement-learning
+"Natural Language Processing: Pretraining - d2l An interactive deep learning book with code, math, and discussions, based on the NumPy interface.",natural-language-processing
+Module 2: Convolutional Neural Networks - CS231n  In Lecture 5 we move from fully-connected neural networks to convolutional neural networks.,computer-vision
+Understanding Convolutional Neural Networks for NLP More recently we’ve also started to apply CNNs to problems in Natural Language Processing and gotten some interesting results.,natural-language-processing
+An Overview of Semantic Image Segmentation Image segmentation is a computer vision task in which we label specific regions of an image according to what's being shown.,computer-vision
+"Common Architectures in Convolutional Neural Networks In this post, I'll discuss commonly used architectures for convolutional networks. ",computer-vision
+Googletrans Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.,natural-language-processing
+Prophet: Forecasting At Scale Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.,time-series
+makesense.ai Free to use online tool for labelling photos.,computer-vision
+Doccano Open source text annotation tool for machine learning practitioner. ,natural-language-processing
+BRAT: Rapid Annotation Tool BRAT (brat rapid annotation tool) is based on the stav visualiser which was originally made in order to visualise BioNLP'11 Shared Task data.,natural-language-processing
+Word Embeddings This tutorial introduces word embeddings. It contains complete code to train word embeddings from scratch on a small dataset.,natural-language-processing
+On Word Embeddings This post presents the most well-known models for learning word embeddings based on language modeling.,natural-language-processing
+"NLP for Developers: Word Embeddings | Rasa In this video, Rasa Developer Advocate Rachael will talk about what word embeddings are, how they work, when they're used and some  common errors. ",natural-language-processing
+"NLP for Developers: Transformers | Rasa In this video, Rasa Developer Advocate Rachael will talk about what transformers are, how they work, when they're used and some  common errors. ",natural-language-processing
+A Visual Guide to Using BERT for the First Time Tutorial for how to use a variant of BERT to classify sentences.,natural-language-processing
+The Illustrated GPT-2 (Visualizing Transformer Language Models) Visuals explaining the inner-workings of transformers.,natural-language-processing
+"The Illustrated Word2vec In this post, we’ll go over the concept of embedding, and the mechanics of generating embeddings with word2vec. ",natural-language-processing
+"The Illustrated BERT, ELMo, and co. How NLP cracked transfer learning.",natural-language-processing
+"The Illustrated Transformer In this post, we will look at The Transformer – a model that uses attention to boost the speed with which these models can be trained.",natural-language-processing
+Visualizing A Neural Machine Translation Model Mechanics of seq2seq models with attention.,natural-language-processing
+The Unreasonable Effectiveness of Recurrent Neural Networks A close look at how RNNs are able to perform so well.,natural-language-processing
+A Gentle Introduction to Text Summarization in Machine Learning Text summarization is the technique for generating a concise and precise summary of voluminous texts while focusing on the sections that convey useful info.,natural-language-processing
+"Attention Mechanism Main concepts behind Attention, including an implementation of a sequence-to-sequence Attention model, followed by the application of Attention in Transformers.",natural-language-processing
+"Attention? Attention! In this post, we are gonna look into how attention was invented, and various attention mechanisms and models, such as transformer and SNAIL.",natural-language-processing
+The Annotated Transformer In this post I present an “annotated” version of the paper in the form of a line-by-line implementation. ,natural-language-processing
+The Annotated GPT-2 GPT-2 explained with visualization and PyTorch code.,natural-language-processing
+Transformers - Hugging Face 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. ,natural-language-processing
+"Curriculum for Reinforcement Learning Curriculum learning applied to reinforcement learning, with a few exceptions of supervised learning.",reinforcement-learning
+Self-Supervised Representation Learning What if we can get labels for free for unlabelled data and train unsupervised dataset in a supervised manner? ,computer-vision
+Evolution Strategies Evolutionary algorithms refer to a division of population-based optimization algorithms inspired by natural selection. ,reinforcement-learning
+Meta Reinforcement Learning Explore cases when we try to “meta-learn” Reinforcement Learning (RL) tasks by developing an agent that can solve unseen tasks fast and efficiently.,reinforcement-learning
+Generalized Language Models Trend in large unsupervised pre-trained language models which have achieved amazing SOTA results on a variety of language tasks.,natural-language-processing
+"Policy Gradient Algorithms In this post, we are going to look deep into policy gradient, why it works, and many new policy gradient algorithms proposed in recent years.",reinforcement-learning
+"A (Long) Peek into Reinforcement Learning In this post, we are gonna briefly go over the field of Reinforcement Learning (RL), from fundamental concepts to classic algorithms.",reinforcement-learning
+"Object Detection for Dummies We will go through several basic concepts, algorithms, and popular deep learning models for image processing and object detection.",computer-vision
+Learning Word Embedding This post introduces several models for learning word embedding and how their loss functions are designed for the purpose.,natural-language-processing
+GANSpace: Discovering Interpretable GAN Controls This paper describes a simple technique to analyze Generative Adversarial Networks (GANs) and create interpretable controls for image synthesis.,computer-vision
+Kornia: Differentiable Computer Vision Library for PyTorch Set of routines and differentiable modules to solve generic computer vision problems. ,computer-vision
+PyTorch Geometric  Geometric deep learning extension library for PyTorch.,graph-learning
+"DGL: Deep Graph Library Python package built to ease deep learning on graph, on top of existing DL frameworks. ",graph-learning
+Question Answering with a Fine-Tuned BERT What does it mean for BERT to achieve “human-level performance on Question Answering”?,natural-language-processing
+BERT Research - Key Concepts & Sources Video series on BERT's key concepts and sources.,natural-language-processing
+GLUE Explained: Understanding BERT Through Benchmarks In this post we take a look at an important NLP benchmark used to evaluate BERT and other transfer learning models!,natural-language-processing
+TinyBERT TinyBERT is 7.5x smaller and 9.4x faster on inference than BERT-base and achieves competitive performances in the tasks of natural language understanding.,natural-language-processing
+NVIDIA Neural Modules: NeMo A toolkit for conversational AI.,natural-language-processing
+The Autonomous Learning Library A PyTorch library for building deep reinforcement learning agents.,reinforcement-learning
+VoTT: Visual Object Tagging Tool An electron app for building end to end Object Detection Models from Images and Videos.,computer-vision
+Clinical BERT Repository for Publicly Available Clinical BERT Embeddings,natural-language-processing
+"COCO Annotator ✏️ Web-based image segmentation tool for object detection, localization and key points.",computer-vision
+"Computer Vision Annotation Tool (CVAT) Free, online, interactive video and image annotation tool for computer vision.",computer-vision
+LabelImg 🖍️ A graphical image annotation tool and label object bounding boxes in images.,computer-vision
+"How to Steal Modern NLP Systems with Gibberish? It’s possible to steal BERT-based models without any real training data, even using gibberish word sequences.",natural-language-processing
+ProteinGCN: Protein model quality assessment using GCNs Source code for the paper: ProteinGCN: Protein model quality assessment using Graph Convolutional Networks.,graph-learning
+BioWordVec & BioSentVec Pre-trained embeddings for biomedical words and sentences,natural-language-processing
+"BioBERT: a pre-trained biomedical language representation model  Code for fine-tuning BioBERT for biomedical text mining tasks such as biomedical NER, relation extraction, QA, etc.",natural-language-processing
+How to Unit Test Machine Learning Code Wouldn’t suck to have to throw away perfectly good ideas because our implementations were buggy?,mlops
+Machine Learning Systems Design Designing a machine learning system.,mlops
+Tokenizers 💥Fast State-of-the-Art Tokenizers optimized for Research and Production.,natural-language-processing
+HMTL: Hierarchical Multi-Task Learning 🌊 A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP,natural-language-processing
+The State of Transfer Learning in NLP This post expands on the NAACL 2019 tutorial on Transfer Learning in NLP. It highlights key insights and takeaways and provides updates based on recent work.,natural-language-processing
+The Dark Secrets of BERT How much of the linguistically interpretable self-attention patterns that are presumed to be its strength are actually used to solve downstream tasks?,natural-language-processing
+Keras OCR A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model. ,computer-vision
+"Named Entity Recognition Tagging In this post, we go through an example from Natural Language Processing, in which we learn how to load text data and perform NER tagging for each token.",natural-language-processing
+An introduction to Q-Learning: Reinforcement Learning Q-Learning algorithm along with an implementation in Python using Numpy.,reinforcement-learning
+Ray Ray is a fast and simple framework for building and running distributed applications.,reinforcement-learning
+"Graph Nets PyTorch Implementation and Explanation of Graph Representation Learning papers involving DeepWalk, GCN, GraphSAGE, ChebNet & GAT.",graph-learning
+Visualizing Memorization in RNNs Inspecting gradient magnitudes in context can be a powerful tool to see when recurrent units use short-term or long-term contextual understanding.,natural-language-processing
+ConvNet Playground An interactive visualization for exploring Convolutional Neural Networks applied to the task of semantic image search.,computer-vision
+"Embedding Projector Visualization of high dimensional data, namely embeddings.",natural-language-processing
+Word2Viz: Explore Word Analogies Interactive visualization of word analogies in GloVe.,natural-language-processing
+Image-to-Image Translation with Conditional Adversarial Networks Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets,computer-vision
+"Quick, Draw Can a neural network learn to recognize doodling?",computer-vision
+A 2019 Guide to Speech Synthesis with Deep Learning A look at recent deep learning based speech synthesis research and techniques.,natural-language-processing
+"AllenNLP An open-source NLP research library, built on PyTorch.",natural-language-processing
+FlashTorch Visualization toolkit for neural networks in PyTorch,computer-vision
+Frameworks for Machine Learning Model Management This blog post will follow up by comparing three different tools developed to support reproducible machine learning model development.,mlops
+W&B: Weights and Biases Track model training at scale.,mlops
+"TensorBoard.dev  Easily host, track, and share your ML experiments for free.",mlops
+"BertViz Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)",natural-language-processing
+"Text Feature Selection for Causal Inference Identifying the linguistic features that cause people to act a certain way after reading a text, regardless of confounding variables, is something people do.",natural-language-processing
+3D Ken Burns Effect from a Single Image Implementation of 3D Ken Burns Effect from a Single Image using PyTorch.,computer-vision
+Sparse Sinkhorn Attention A new efficient and sparse method for learning to attend based on differentiable sorting of internal representations.,natural-language-processing
+Backtester A backtesting framework for timeseries data.,time-series
+"The Transformer Family This post presents how the vanilla Transformer can be improved for longer-term attention span, less memory and computation consumption, RL task solving, etc.",natural-language-processing
+"An Overview of Early Vision in InceptionV1 A guided tour of the first five layers of InceptionV1,
+taxonomized into “neuron groups.”",computer-vision
+"AiLight: Automatic  Highlighting Using BERT Automatically highlight pdfs using BERT embeddings and clustering. 
+https://anishthite.github.io/ailight",natural-language-processing
+"Controlling Text Generation with Plug and Play Language Models This article discusses an alternative approach to controlled text generation, titled the Plug and Play Language Model (PPLM).",natural-language-processing
+Genomic ULMFiT ULMFiT for Genomic Sequence Data,natural-language-processing
+"Self-Supervised Learning and Computer Vision So, what do you do if there are no pre-trained models in your domain? ",computer-vision
+scispaCy A full spaCy pipeline and models for scientific/biomedical documents.,natural-language-processing
+"Pruning Bert to Accelerate Inference After previously discussing various ways of accelerating models like BERT, in this blog post we empirically evaluate the pruning approach.",natural-language-processing
+"Compressing Bert for Faster Prediction In this blog post, we discuss ways to make huge models like BERT smaller and faster. ",natural-language-processing
+Universal Adversarial Triggers for Attacking and Analyzing NLP We create short phrases that cause a specific model prediction when concatenated to 𝘢𝘯𝘺 input from a dataset. ,natural-language-processing
+lazynlp Library to scrape and clean web pages to create massive datasets.,natural-language-processing
+AllenNLP Interpret A Framework for Explaining Predictions of NLP Models,natural-language-processing
+Natural Language Processing With spaCy in Python A comprehensive guide to NLP with spaCy.,natural-language-processing
+Tips for Successfully Training Transformers on Small Datasets It turns out that you can easily train transformers on small datasets when you use tricks (and have the patience to train a very long time).,natural-language-processing
+🦄 How to build a SOTA Conversational AI with Transfer Learning Train a dialog agent leveraging transfer Learning from an OpenAI GPT and GPT-2 Transformer language model.,natural-language-processing
+"Evaluation Metrics for Language Modeling In this article, we will focus on traditional intrinsic metrics that are extremely useful during the process of training the language model itself. ",natural-language-processing
+"CS224n: Natural Language Processing with Deep Learning In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP.",natural-language-processing
+"CS231n: Convolutional Neural Networks for Visual Recognition Deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.",computer-vision
+All The Ways You Can Compress BERT In this post I’ll list and briefly taxonomize all the papers I’ve seen compressing BERT. ,natural-language-processing
+Illustrated: Self-Attention Step-by-step guide to self-attention with illustrations and code.,natural-language-processing
+"Limitations of Deep Learning for Vision, and How We Might Fix The This is an opinion paper about the strengths and weaknesses of Deep Nets for vision.",computer-vision
+Beyond the Pixel Plane: Sensing and Learning in 3d Recent deep learning techniques that enable 3D object classification and semantic segmentation.,computer-vision
+A Visual Guide to Self-Labelling Images A self-supervised method to generate labels via simultaneous clustering and representation learning,computer-vision
+3D Photography using Context-aware Layered Depth Inpainting A multi-layer representation for novel view synthesis that contains hallucinated color and depth structures in regions occluded in the original view. ,computer-vision
+Tokenizers: How Machines Read A survey of different tokenization strategies in NLP.,natural-language-processing
+Practical Text Classification With Python and Keras You will get a grasp of current advancements of (deep) neural networks and how they can be applied to text.,natural-language-processing
+Text Classification With Torchtext This example shows how to train a supervised learning algorithm for classification using one of these TextClassification datasets.,natural-language-processing
+Understanding Text With Bert Building a machine reading comprehension system using the latest advances in deep learning for NLP.,natural-language-processing
+"Transfer Learning with T5: the Text-To-Text Transfer Transformer In the paper, we demonstrate how to achieve state-of-the-art results on multiple NLP tasks using a text-to-text transformer pre-trained on a large text corpus.",natural-language-processing
+"Building a COVID-19 Project Recommendation System How to create a GitHub open source repo recommendation system web app with MLflow, Sagemaker, and Booklet.ai.",natural-language-processing
+Neural Machine Translation With Attention This notebook trains a sequence to sequence (seq2seq) model for Spanish to English translation. ,natural-language-processing
+PyTorch Tutorial for Deep Learning Researchers This repository provides tutorial code for deep learning researchers to learn PyTorch. ,computer-vision
+Show and Tell: A Neural Image Caption Generator A TensorFlow implementation of the image-to-text model.,computer-vision
+SimpleGAN A Tensorflow-based framework to ease the training of generative models,computer-vision
+Semantic Segmentation on MIT ADE20K dataset in PyTorch Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset.,computer-vision
+ViLBERT-MT: Multi-Task Vision & Language Representation Learning A single ViLBERT Multi-Task model can perform 8 different vision and language tasks learnt from 12 datasets!,computer-vision
+"Training an Image Classifier in PyTorch Torchvision, that has data loaders for common datasets such as Imagenet, CIFAR10, MNIST, etc. and data transformers for images, vizualization and data loaders.",computer-vision
+A Visual Exploration of DeepCluster DeepCluster is a self-supervised method to combine clustering and representation learning,computer-vision
+A 2019 guide to Human Pose Estimation with Deep Learning The basics of Human Pose Estimation (2D) and review the literature on this topic.,computer-vision
+Face Alignment in Full Pose Range: A 3D Total Solution Face Alignment in Full Pose Range: A 3D Total Solution.,computer-vision
+V2V-PoseNet Pytorch PyTorch implementation of V2V-PoseNet with IntegralPose/PoseFix loss.,computer-vision
+"Deep Learning Based Super Resolution, Without Using a GAN Techniques and training a deep learning model for image improvement, image restoration, inpainting and super resolution.",computer-vision
+U-Net Deep Learning Colorization of Greyscale Images This article describes experiments training a neural network to generate 3 channel colour images from single channel greyscale images using deep learning.,computer-vision
+Deep Learning for Image Super-resolution: A Survey This article aims to provide a comprehensive survey on recent advances of image super-resolution using deep learning approaches.,computer-vision
+Second-order Attention Network for Single Image Super-resolution We propose a second-order attention network (SAN) for more powerful feature expression and feature correlation learning.,computer-vision
+DeepSORT: Deep Learning to Track Custom Objects in a Video A look at deep learning based approached for object tracking.,computer-vision
+Fast Online Object Tracking and Segmentation: A Unifying Approach We illustrate how to perform both realtime object tracking and semi-supervised video object segmentation using a fully-convolutional Siamese approach.,computer-vision
+Neural Style Transfer This tutorial uses deep learning to compose one image in the style of another image (ever wish you could paint like Picasso or Van Gogh?).,computer-vision
+Fast- Neural Style Pytorch implementation of an algorithm for artistic style transfer. ,computer-vision
+Torchvision Object Detection Finetuning Tutorial Finetuning a pre-trained Mask R-CNN model in the Penn-Fudan Database for Pedestrian Detection and Segmentation.,computer-vision
+"Deep Learning for Videos: A 2018 Guide to Action Recognition In this post, I summarize the literature on action recognition from videos. ",computer-vision
+Shakespeare Meets Google's Flax Application of RNNs in Flax: Character-Level Language Model.,natural-language-processing
+"Anomaly detection with Keras, TensorFlow, and Deep Learning Perform anomaly detection in your own image datasets using deep learning.",computer-vision
+"Almost Everything You Need to Know About Time Series Understand moving average, exponential smoothing, stationarity, autocorrelation, SARIMA, and more.",time-series
+STEFANN: Scene Text Editor using Font Adaptive Neural Network A generalized method for realistic modification of textual content present in a scene image. ⭐️ Accepted in CVPR 2020.,computer-vision
+Time Series Prediction with LSTM Using PyTorch Time series applied to forecasting on the Airplane Passengers Dataset.,time-series
+lda2vec: Tools for interpreting natural language The lda2vec model tries to mix the best parts of word2vec and LDA into a single framework.,natural-language-processing
+"Deep Learning for Object Detection: A Comprehensive Review A closer look at Tensorflow’s object detection models: Faster R-CNN, R-FCN, and SSD.",computer-vision
+"An Intuitive Guide to Deep Network Architectures Intuition behind base network architectures like MobileNets, Inception, and ResNet.",computer-vision
+Real-Time Voice Cloning Clone a voice in 5 seconds to generate arbitrary speech in real-time. Code for Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech.,natural-language-processing
+15 Best Tools for Tracking Machine Learning Experiments A feature comparison of all the open-source and commercial options for experiment tracking.,mlops
+"Cycle GAN in TensorFlow 2.0 with Custom Loops Implementation of ""Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"" by Jun-Yan Zhu et al. ",computer-vision
+Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset The largest dataset of in-the-wild stereo image pairs (50K) crowd-sourced from the Holopix lightfield image-sharing social network.,computer-vision
+PyTorch Notebooks 🔥A collection of PyTorch notebooks for learning and practicing deep learning,natural-language-processing
+"Creating an End-to-End Machine Learning Application A complete, end-to-end ML application, implemented in both TensorFlow 2.0 and PyTorch.",mlops
+How Docker Can Help You Become A More Effective Data Scientist A look at Docker from the perspective of a data scientist.,mlops
+Optimize your ML models Learn to use optimize your custom image classification models (built-in tf.keras) using TensorFlow Lite and gain 10x reduction in model's size. ,computer-vision
+"Machine learning deserves its own flavor of Continuous Delivery When traveling in the data science world, I'm homesick for a smooth continuous delivery flow. My thoughts on approachable CD4ML.",mlops
+An Introduction to Transfer Learning and HuggingFace In this talk I'll start by introducing the recent breakthroughs in NLP that resulted from the combination of Transfer Learning schemes and Transformer architect,natural-language-processing
+"Introduction to Image Inpainting With Deep Learning In this article, we are going to learn how to do “image inpainting”, i.e. fill in missing parts of images precisely using deep learning.",computer-vision
+"The Abstraction and Reasoning Corpus (ARC) Can a computer learn complex, abstract tasks from just a few examples? ARC can be used to measure a human-like form of general fluid intelligence.",natural-language-processing
+Transfer Learning & Fine-Tuning With Keras Your 100% up-to-date guide to transfer learning & fine-tuning with Keras.,computer-vision
+"GitHub Actions & Machine Learning Workflows with Hamel Husain  In this talk, Hamel will provide a brief tutorial on GitHub Actions, and will show you how you can use this new tool to automate your ML workflows.",mlops
+How To Create Semantic Search For Arbitrary Objects An end-to-end example of how to build a system that can search objects semantically. By Hamel Husain & Ho-Hsiang Wu,natural-language-processing
+"CS285: Deep Reinforcement Learning A course on deep reinforcement learning, transfer and multi-task learning.",reinforcement-learning
+TorchServe & TorchElastic PyTorch Libraries for Serving/Training The officially supported way to deploy and manage models with PyTorch.,mlops
+"The Future of (Transfer Learning in) Natural Language Processing Transfer Learning in Natural Language Processing (NLP): Open questions, current trends, limits, and future directions.",natural-language-processing
+MONAI AI Toolkit for Healthcare Imaging.,computer-vision
+Building a Simple Chatbot from Scratch in Python (using NLTK) A look at retrieval based and generative conversational AI for creating chatbots.,natural-language-processing
+How I Used Deep Learning To Train A Chatbot To Talk Like Me Facebook chatbot that I trained to talk like me using Seq2Seq.,natural-language-processing
+DialoGPT: Toward Human-Quality Conversational Response Generation Large-scale pre-training for dialogue.,natural-language-processing
+Upside Down Reinforcement Learning Implementation of UDRL as outlined by Juergen Schmidhuber in https://arxiv.org/abs/1912.02875,reinforcement-learning
+PyImageSearch An online platform of blogs on Computer Vision and Deep Learning.,computer-vision
+"Implementing DCGANs using PyTorch C++ API (Libtorch) The blog discusses the paper review of DCGANs and implementation using PyTorch C++ API in detail. From loading models to visualizing batch of the data, in C++! ",computer-vision
+"Implementing Portrait Bokeh Mode using OpenCV and NumPy (Python) Do you love the portrait mode in your smartphone? This code will help you do the same using OpenCV and NumPy! Detects the faces, asks if you want to blur them!",computer-vision
+"ELECTRA  Explaining the new self-supervised task for language representation learning, ELECTRA which uses ""replace token detection"".",natural-language-processing
+MixNMatch Multifactor Disentanglement and Encoding for Conditional Image Generation,computer-vision
+MT-Clinical BERT Scaling Clinical Information Extraction with Multitask Learning,natural-language-processing
+medaCy 🏥 Medical Text Mining and Information Extraction with spaCy,natural-language-processing
+"How to Train a New Language Model From Scratch Using Transformers In this post we’ll demo how to train a “small” model (84 M parameters = 6 layers, 768 hidden size, 12 attention heads).",natural-language-processing
+"ARIMA Modeling - Guide to Time Series Forecasting in Python How ARIMA models works . How to train and forecast using ARIMA, SARIMA, SARIMAX and find the optimal model with Python",time-series
+"Lagrangian Neural Networks Trying to learn a simulation? Try Lagrangian Neural Networks, which explicitly conserve energy and may generalize better!",graph-learning
+"ML Foundations and Methods for Precision Medicine and Healthcare This tutorial will discuss ideas from machine learning that enable personalization (useful for applications in education, retail, medicine and recsys).",reinforcement-learning
+Albert-base for Sanskrit Trained Albert-base from scratch on Sanskrit corpus of Wikipedia. I have also added a link to how to train your own Language model from scratch.,natural-language-processing
+"Adversarial Latent Autoencoders Introducing the Adversarial Latent Autoencoder (ALAE), a general architecture that can leverage recent improvements on GAN training procedures.",computer-vision
+Spektral Graph Neural Networks with Keras and Tensorflow 2.,graph-learning
+Optimal Transport and the Sinkhorn Transformer Understand optimal transport and the Sinkhorn-Knopp algorithm before diving into the Sinkhorn Transformer.,natural-language-processing
+"Semantic Graphs for Generating Deep Questions Deep Question Generation (DQG), which aims to generate complex questions that require reasoning over multiple pieces of information of the input passage. ",natural-language-processing
+Gutenberg Dialog Build a dialog dataset from online books in many languages.,natural-language-processing
+Better NLP project This is a wrapper program/library that encapsulates a couple of NLP libraries that are popular among the AI and ML communities.,natural-language-processing
+"Recipes for building an open-domain chatbot Python framework for sharing, training and testing dialogue models, from open-domain chitchat to VQA (Visual Question Answering).",natural-language-processing
+"Object-detection with multi-template matching This python package allows to perform object detection using one or a few template images, it provides a simpler alternative to deep-learning methods",computer-vision
+"AIDeveloper GUI-based software for training, evaluating and applying deep neural nets for image classification ",computer-vision
+No Trump Social Chrome Plugin An AI-driven Browser Extension to Replace Trump Pics with Puppies!,computer-vision
+Attribute2Font: Creating Fonts You Want From Attributes Official PyTorch implementation of the Attribute2Font: Creating Fonts You Want From Attributes.,natural-language-processing
+MedCAT - Medical Concept Annotation Tool A tool used to extract information from Electronic Health Records (EHRs) and link it to biomedical ontologies like SNOMED-CT and UMLS.,natural-language-processing
+YOLOv4: Optimal Speed and Accuracy of Object Detection A minimal implementation of YOLOv4.,computer-vision
+Geometric and Relational Deep Learning Videos from emerging fields of Graph Representation Learning and Geometric Deep Learning.,graph-learning
+The AI Economist Improving Equality and Productivity with AI-Driven Tax Policies,reinforcement-learning
+TAPAS: Weakly Supervised Table Parsing via Pre-training Using neural networks to find answers in tables.,natural-language-processing
+WT5?! Training Text-to-Text Models to Explain their Predictions We leverage the text-to-text framework proposed by Raffel et al.(2019) to train language models to output a natural text explanation alongside their prediction.,natural-language-processing
+"Jukebox: A Generative Model for Music We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. ",natural-language-processing
+"Exploratory Data Analysis of Time Series Exploratory Data Analysis of Time Series data in Python. It uses lot of the principles and concepts discussed in Prof. Hyndman's book. The focus is on understa
+",time-series
+Gotchas of Transfer Learning for Image Classification Discover the things you should care about while doing transfer learning for image classification. ,computer-vision
+"Ensemble Forecasts  Time series forecasting using classical methods (ETS, Holt-Winter's, SARIMA) and Prophet. I show and discuss advantages of Ensemble Forecast",time-series
+SciTLDR: Extreme Summarization of Scientific Documents A new automatic summarization task with high source compression requiring expert background knowledge and complex language understanding.,natural-language-processing
+BLINK: Better entity LINKing Entity Linking python library that uses Wikipedia as the target knowledge base.,natural-language-processing
+Five Cool Python Libraries for Data Science Python is a best friend for the majority of the Data Scientists. Libraries make their life simpler. I have come across five cool Python libraries while working ,natural-language-processing
+Fastai2 Vision Module A detailed guide to using fastai2 Datablock API for common computer vision tasks,computer-vision
+"Unsupervised Question Decomposition for Question Answering Decompose hard (multi-hop) questions into several, easier (single-hop) questions using unsupervised learning, and get better accuracy on multi-hop QA.",natural-language-processing
+Implementing Graph Neural Networks with JAX I’ll talk about my experience on how to build and train Graph Neural Networks (GNNs) with JAX.,graph-learning
+Training Batch Norm and Only Batch Norm Experiments with the ideas presented in https://arxiv.org/abs/2003.00152 by Frankle et al. ,computer-vision
+Deep Learning With Graph-Structured Representations Novel approaches based on the theme of structuring the representations and computations of neural network-based models in the form of a graph.,graph-learning
+GNNExplainer: Generating Explanations for Graph Neural Networks General tool for explaining predictions made by graph neural networks (GNNs).,graph-learning
+The Big Bad NLP Database A collection of 400+ NLP datasets with papers included.,natural-language-processing
+POINTER: Constrained Text Generation Constrained Text Generation via Insertion-based Generative Pre-training,natural-language-processing
+"Differential Subspace Search in High-Dimensional Latent Space Differential subspace search to allow efficient iterative user exploration in such a space, without relying on domain- or data-specific assumptions.",computer-vision
+Covid-19: A-Geo-Statistical-Analysis Analysis with the time series data available for various countries.,time-series
+Cognito : Data wrangling toolkit Cognito is an exclusive python data preprocessing library and command-line utility that helps any developer to transform raw data into a machine-learning format,time-series
+Synthesizer: Rethinking Self-Attention in Transformer Models The dot product self-attention is known to be central and indispensable to state-of-the-art Transformer models. But is it really required?,natural-language-processing
+DeepWay: Autonomous navigation for blind. I have tried to make something which can be used by blind people to navigate around the streets. Have a look at the video and GitHub repo for details.,computer-vision
+ConvNets-TensorFlow2 Implementing a variety of popular and important CNN architectures,computer-vision
+"StellarGraph - Machine Learning on Graphs State-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data.",graph-learning
+"LandCover.ai Dataset for automatic mapping of buildings, woodlands and water from aerial imagery.",computer-vision
+Generating SOAP Notes from Doctor-Patient Conversations Evaluate complete pipelines for leveraging these transcripts to train machine learning model to generate these notes.,natural-language-processing
+Nature-Scene Classification using FASTAI Classifying Nature-scene images using deep learning  with fastai library,computer-vision
+Machine-Learning-Single-Layer-Multiclass-Perceptron Implemented a Single Layer Perceptron and applied it on the MNIST dataset for multi-class classification using NumPy.,computer-vision
+Zero-shot Neural Retrieval via Domain-targeted Synthetic Queries Zero-shot learning for ad-hoc retrieval models that relies on synthetic query generation.,natural-language-processing
+Harry Potter and the Deep Learning Experiment RNN built with TensorFlow to generate text based on Harry Potter's books.,natural-language-processing
+"Med7 - clinical natural language processing for EHR Med7 is a transferable clinical natural language processing model for electronic health records, compatible with spaCy, for named-entity recognition task",natural-language-processing
+"NeuralCook — Image2Ingredients and Cooking Recommendation Deep learning application to identify ingredients from cooking dishes images and recommend dishes to cook, given a set of ingredients.",natural-language-processing
+Haystack — Neural Question Answering At Scale Scaling Question Answering models to find answers in large document stores via retriever and reader approach.,natural-language-processing
+SimCLR in TensorFlow 2 (Minimally) implements SimCLR (https://arxiv.org/abs/2002.05709) in TensorFlow 2.,computer-vision
+Semantic Cord19 Paper Explorer Semantic research paper explorer to search Research Papers in COVID and CoronaVirus. Can be easily modified to any Research Paper Database,natural-language-processing
+NER model for 40 languages trained with the new TFTrainer This model is a fine-tuned XLM-Roberta-base over the 40 languages proposed in XTREME from Wikiann. ,natural-language-processing
+Pose Animator Takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh.,computer-vision
+A Commit History of BERT and its Forks What a commit history of version-controlled research papers could look like?,natural-language-processing
+"U^2-Net The code for our newly accepted paper in Pattern Recognition 2020: ""U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.""",computer-vision
+Age and Gender Estimation using Multi-Task CNN Used a multi task CNN to predict the age group and gender of the person in the image.,computer-vision
+Data augmentation recipes in tf.keras image-based models Learn about different ways of doing data augmentation when training an image classifier in tf.keras.,computer-vision
+Injecting Inductive Bias in Graph Neural Networks (MIT talk) Equivariant Mesh Neural Networks and Neural Augmented (Factor) Graph Neural Networks.,graph-learning
+Feature Stores for ML List of production ML groups and their open-source feature store architectures.,mlops
+"Image Semantic Segmentation of UAV mining area based on Deeplabv3 Data: UAV mining area image
+Tools: PyTorch
+Frame: Deeplabv3
+Semantic Segmentation ",computer-vision
+Introduction to Machine Learning Problem Framing This course helps you frame machine learning (ML) problems.,mlops
+A Comprehensive Survey on Graph Neural Networks A Comprehensive Survey on Graph Neural Networks.,graph-learning
+"Hidden Technical Debt in Machine Learning Systems Using the software engineering framework of technical debt, we find it is common to incur massive ongoing maintenance costs in real-world ML systems. ",mlops
+"In-Domain GAN Inversion for Real Image Editing We propose an in-domain GAN inversion method, which faithfully reconstructs the input image but also ensures the inverted code to be semantically meaningful.",computer-vision
+"Neural Networks for NLP (CMU CS 11-747) This class will start with a brief overview of neural networks, then spend the majority of the class demonstrating how to apply neural networks to language.",natural-language-processing
+DANet PyTorch A Pytorch implementation of Dual Attention Network for Scene Segmentation,computer-vision
+"BART version of closed-book QA This is a BART version of sequence-to-sequence model for open-domain QA in a closed-book setup, based on PyTorch and Huggingface's Transformers.",natural-language-processing
+Unsupervised Reinforcement Learning Lecture on unsupervised reinforcement learning by Sergey Levine. Originally prepared for AAMAS 2020.,reinforcement-learning
+CCNet_PyTorch A PyTorch Implementation of  CCNet: Criss-Cross Attention for Semantic Segmentation,computer-vision
+"Image segmentation in 2020 Architectures, Losses, Datasets, and Frameworks",computer-vision
+Plan2Explore: Plan to Explore via Self-Supervised World Models A self-supervised reinforcement learning agent that tackles task-specific and the sample efficiency challenges.,reinforcement-learning
+TailorGAN: Making User-Defined Fashion Designs Generate a photo-realistic image which combines the texture from reference A and the new attribute from reference B.,computer-vision
+Toward Better Storylines with Sentence-Level Language Models We propose a sentence-level language model which selects the next sentence in a story from a finite set of fluent alternatives.,natural-language-processing
+"Epipolar Transformers Differentiable ""epipolar transformer"", which enables the 2D detector to leverage 3D-aware features to improve 2D pose estimation.",computer-vision
+Machine Learning on Graphs: A Model and Comprehensive Taxonomy We propose a simple framework (GraphEDM) and a comprehensive Taxonomy to review and unify several graph representation learning methods.,graph-learning
+BLEURT: Learning Robust Metrics for Text Generation A metric for Natural Language Generation based on transfer learning.,natural-language-processing
+"Identifying Brain Tumor from MRI images using FastAI -DynamicUnet To use FASTAI unet learner to identify tumours from MRI of Brain, logging loss metrics in Neptune AI logger and compare the results after hyperparameter tuning.",computer-vision
+T5 fine-tuning A colab notebook to showcase how to fine-tune T5 model on various NLP tasks (especially non text-2-text tasks with text-2-text approach),natural-language-processing
+HuggingTweets Tweet Generation with Huggingface.,natural-language-processing
+Top Down Introduction to BERT with HuggingFace and PyTorch I will also provide some intuition into how BERT works with a top down approach (applications to algorithm).,natural-language-processing
+"Transformers from Scratch Attempt to explain directly how modern transformers work, and why, without some of the historical baggage.",natural-language-processing
+Scene Classification using Pytorch and Fast.ai The objective is to classify Multi-label images using deep learning. Here I have used Fast.ai library for implementing the model. ,computer-vision
+ASAP: Pooling for Graph Neural Network (AAAI 2020) ASAP is a sparse and differentiable pooling method that addresses the limitations of previous graph pooling layers.,graph-learning
+Fake new detection Pytorch Fake News Detection by Learning Convolution Filters through Contextualized Attention.,natural-language-processing
+FastHugs: Sequence Classification with Transformers and Fastai Fine-tune a text classification model with HuggingFace 🤗 transformers and fastai-v2.,natural-language-processing
+Open-Dialog Chatbots for Learning New Languages A tutorial for automatically generate code comments using Deep Learning.,natural-language-processing
+Electra ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,natural-language-processing
+DQN In Pytorch Livestream Series I'm doing a series of streams about reinforcement learning (starting from Q learning) focused on showing the work in as much detail as possible (e.g. debugging),reinforcement-learning
+S2IGAN: Speech-to-Image Generation via Adversarial Learning A speech-to-image generation (S2IG) framework is proposed which translates speech descriptions to photo-realistic images without using any text information.,computer-vision
+"Twitter Sentiment Analysis This project is based on Natural Language processing (NLP), in this we do sentiment analysis(i.e, how much it is positive or negative) of tweets of any account.",natural-language-processing
+"HuggingFace nlp library nlp is a lightweight and extensible library to easily share and load dataset and evaluation metrics, already providing access to ~100 datasets and ~10 evaluatio",natural-language-processing
+RXNMapper: Unsupervised Attention-Guided Atom-Mapping The atom-mapping information was learned by an ALBERT model trained in an unsupervised fashion on a large dataset of chemical reactions.,natural-language-processing
+ICLR 2020 Trends: Better & Faster Transformers for NLP A summary of promising directions from ICLR 2020 for better and faster pretrained tranformers language models. ,natural-language-processing
+Differentiable Reasoning over Text We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB).,natural-language-processing
+"Semi-supervised image classification with GANs Shows how to perform semi-supervised image classification with GANs. The cover image is from Chapter 7, GANs in Action.",computer-vision
+Exploratory Data Analysis on MS COCO Style Datasets A Simple Toolkit to do exploratory data analysis on MS COCO style formatted datasets.,computer-vision
+"HighRes-net: Multi-Frame Super-Resolution of satellite imagery Pytorch implementation of HighRes-net, a neural network for multi-frame super-resolution, trained and tested on the European Space Agency’s Kelvin competition.",computer-vision
+How Deep Is Your Love For Transfer Learning In NLP? A review of NLP research,natural-language-processing
+Time Series Forecasting with TensorFlow.js Machine learning is becoming increasingly popular these days and a growing number of the world’s population see it is as a magic crystal ball: predicting when a,time-series
+Phrases extraction and D3 Wordcloud 100% JavaScript solution to extracting phrases from text and display key points in a beautiful D3 wordcloud.,natural-language-processing
+"Reinforcement Learning Tic Tac Toe with Value Function A reinforcement learning algorithm for agents to learn the tic-tac-toe, using the value function
+
+",reinforcement-learning
+Build a Textual Similarity Web App with TensorFlow.js Have you wondered how search engines understand your queries and retrieve relevant results? How chatbots extract your intent from your questions and provide the,natural-language-processing
+"cyBERT: Applying BERT to Windows event logs This blog shows how interpreting cybersecurity logs as a natural language, improving upon the standard regex-based parsing of log data.",natural-language-processing
+DPOD: Pose Estimator PyTorch recreation of a SOTA 6D Pose estimation research paper. ,computer-vision
+ESTorch ESTorch is an Evolution Strategy Library build around PyTorch.,reinforcement-learning
+"A Large-Scale, Open-Domain, Mixed-Interface Dialogue-Based ITS  Korbit, a large-scale, open-domain, mixed-interface, dialogue-based intelligent tutoring system (ITS).",natural-language-processing
+"Single-Stage Semantic Segmentation from Image Labels We attain competitive results by training a single network model
+for segmentation in a self-supervised fashion using only
+image-level annotations",computer-vision
+A Visual Survey of Data Augmentation in NLP An extensive overview of text data augmentation techniques for Natural Language Processing,natural-language-processing
+DoYouEvenLearn Essential Guide to keep up with AI/ML/DL/CV,computer-vision
+"Differentiable Adaptive Computation Time for Visual Reasoning  DACT, a new algorithm for achieving adaptive computation time that, unlike existing approaches, is fully differentiable. ",natural-language-processing
+Semixup: In- and Out-of-Manifold Regularization Semixup is a semi-supervised learning method based on in/out-of-manifold regularization.,computer-vision
+Deep Reinforcement Learning for Supply Chain & Price Optimization Explore how deep reinforcement learning methods can be applied in several basic supply chain and price management scenarios.,reinforcement-learning
+NLPAug Data augmentation for NLP,natural-language-processing
+TextAttack A Python framework for building adversarial attacks on NLP models.,natural-language-processing
+aitextgen A robust Python tool for text-based AI training and generation using GPT-2.,natural-language-processing
+How Hugging Face achieved a 2x performance boost for QA Question Answering with DistilBERT in Node.js,natural-language-processing
+"Get Subreddit Suggestions for a Post Trained on 4M Reddit posts from 4k Subreddits. End-to-end ML pipeline built with fasttext and FastAPI, deployed to Valohai.",natural-language-processing
+Transfer Learning In NLP A brief history of Transfer Learning In NLP,natural-language-processing
+Accelerate your NLP pipelines using Hugging Face and ONNX How the ONNX Runtime team and Hugging Face are working together to address challenges in training and deployment of Transformer models.,natural-language-processing
+"IntelliCode Compose: Code Generation Using Transformer Code completion tool which is capable of predicting sequences of code tokens of arbitrary types, generating up to entire lines of syntactically correct code.",natural-language-processing
+Attentron Few-shot text-to-speech exploiting attention-based variable length embedding,natural-language-processing
+Torch Points3D Pytorch framework for doing deep learning on point clouds.,computer-vision
+NLP Model Selection  NLP model selection guide to make it easier to select models. This is prescriptive in nature and has to be used with caution.,natural-language-processing
+Model-Agnostic Meta-Learning for Reinforcement Learning with TF2 Reimplementation of Model-Agnostic Meta-Learning (MAML) applied on Reinforcement Learning problems in TensorFlow 2.,reinforcement-learning
+FashionBERT Text and image matching with adaptive loss for cross-modal retrieval.,natural-language-processing
+📈 Automated Time Series Forecasting This data app uses Facebook's open-source Prophet library to automatically forecast values into the future. ,time-series
+"Look inside the workings of ""Label Smoothing"" This blog post describes how and why does ""trick"" of label smoothing improves the model accuracy and when should we use it ",computer-vision
+Content and Style Disentanglement for Artistic Style Transfer Hi-Res style transfer and interpolation between styles,computer-vision
+"Time Series Classification Using Deep Learning In this article, I will introduce you to a new package called timeseries for fastai2 that I lately developed. ",time-series
+"TAO: A Large-Scale Benchmark for Tracking Any Object A diverse dataset for Tracking Any Object (TAO) consisting of 2,907 high resolution videos, captured in diverse environments, which are half a minute long on ",computer-vision
+"BiT: Exploring Large-Scale Pre-training for Compute We are excited to share the best BiT models pre-trained on public datasets, along with code in TF2, Jax, and PyTorch. ",computer-vision
+Transfer Learning in NLP with Tensorflow Hub and Keras Learn how to integrate and finetune tensorflow-hub modules in Tensorflow 2.0,natural-language-processing
+Replicating Airbnb's Amenity Detection (documentary series) Airbnb's engineering team shared an article on how they used computer vision to detection amenities in photos. It read like a recipe so I replicated it.,computer-vision
+Self Driving Car This project is a demonstration of a working model of self driving car 🚗🚗 identifying and following lanes using powerful computer vision 🕶🕶 algorithms.,computer-vision
+Plant Disease Detection This website help you to detect disease in your plant🌳 based to the plant's leaf🍃 image,computer-vision
+YoloV3 implementation in keras and tensorflow 2.2 YoloV3 Real Time Object Detector in tensorflow 2.2.,computer-vision
+Face Mask Detector A simple Streamlit frontend for face mask detection in images using a pre-trained Keras CNN model + OpenCV and model interpretability.,computer-vision
+Colbert AI Colbert AI is a Deep Learning Language Model that generates text in the style of Stephen Colbert's famous monologues.,natural-language-processing
+How to Build Robust Embeddings for Visual Similarity Tasks This repository I package a bunch of tips and tricks to efficiently train deep learning models in computer vision,computer-vision
+Basic ML Algorithms from scratch. Implement basic Machine Learning Algorithms from scratch in python.,natural-language-processing
+Build your first data warehouse with Airflow on GCP What are the steps in building a data warehouse? What cloud technology should you use? How to use Airflow to orchestrate your pipeline?,mlops
+"GANs in Computer Vision : An article review series  An article series where we review the most important research papers on GANs from 2015 to today.  6 articles,  20 papers, 20000 words",computer-vision
+Building an Intelligent Twitter Bot The volume of information going through Twitter per day makes it one of the best platforms to get information on any subject of interest. ,natural-language-processing
+Self Supervised Representation Learning in NLP An overview of self-supervised pretext tasks in Natural Language Processing,natural-language-processing
+"Job Classification Job Classification done using Techniques of NLP and ML.
+
+Dataset used from Kaggle of Indeeed job posting.",natural-language-processing
+Next Word Prediction Using transformers to predict next word and predict <mask> word.,natural-language-processing
+PixelLib Pixellib is a library for performing segmentation of images. ,computer-vision
+TensorFlow.js - Gesture Controlled 2048 Gesture Controlled 2048 built with TensorFlow.js,computer-vision
+Taxi Demand Prediction NewYorkCity Predict the number of pickups as accurately as possible for each region in a 10 -min interval.,time-series
+"Super-BPD for Fast Image Segmentation We propose direction-based super-BPD, an alternative to superpixel, for fast generic image segmentation, achieving state-of-the-art real-time result.",computer-vision
+Neural Topological SLAM for Visual Navigation Topological representations for space that effectively leverage semantics and afford approximate geometric reasoning.,computer-vision
+Zero To One For NLP A collection of all resources for learning NLP,natural-language-processing
+"NLP for Developers: Shrinking Transformers | Rasa In this video, Rasa Senior Developer Advocate Rachael will talk about different approaches to make transformer models smaller.",natural-language-processing
+NLP Viewer 🤗 A simple website for browsing popular NLP datasets.,natural-language-processing
+DETR: End-to-End Object Detection with Transformers A new method that views object detection as a direct set prediction problem. ,computer-vision
+AutoSweep: Recovering 3D Editable Objects from a Single Photo Fully automatic framework for extracting editable 3D objects directly from a single photograph.,computer-vision
+"MediaPipe Simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web. ",computer-vision
+CMU LTI Low Resource NLP Bootcamp 2020 A low-resource natural language and speech processing bootcamp held by the Carnegie Mellon University Language Technologies Institute in May 2020.,natural-language-processing
+"Humour.ai : Language Model that can crack Jokes A Language model that can make you laugh. Humour.ai model tries to
+complete a sentence in a humourous way given some input words. ",natural-language-processing
+face mask detection  detects whether a person wearing a mask or not,computer-vision
+"Train ALBERT for NLP with TensorFlow on Amazon SageMaker To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure, network, and ML framework. ",natural-language-processing
+"GPT-3: Language Models are Few-Shot Learners We show that scaling up language models greatly improves task-agnostic, few-shot performance, sometimes even reaching competitiveness with prior SOTA.",natural-language-processing
+"ML in Production - Deployment Series A multi-part blog series on deploying machine learning models in an automated, reproducible, and auditable manner.",mlops
+Guided Uncertainty-Aware Policy Optimization Combining learning and model-based strategies for sample-efficient policy learning.,reinforcement-learning
+"GOTURN-PyTorch PyTorch implementation of ""Learning to Track at 100 FPS with Deep Regression Networks""",computer-vision
+Visual Object Tracking using Adaptive Correlation Filters This article gives step by step tutorial with code on understanding MOSSE tracking algorithm,computer-vision
+Applying Modern Best Practices to Autoencoders This project applies best modern practices found in other areas of image research to autoencoders. Comparing models from other areas of image research.,computer-vision
+"Sentiment analysis  Sentiment analysis by combining three dataset amazon,yelp, IMDb reviews to train our,model to classify if a comment is negative or positive denoted by 0 and 1.",natural-language-processing
+"The designer - gpt2 bot that talks about UX Design This twitter profile spits out thoughts on design and development. Trained with hundreds of Books on UX design and Front end development, it has opinions.",natural-language-processing
+Sentiment Classification for UtaPass & KKBOX Reviews Text classification for reviews of UtaPass & KKBOX using different deep learning models.,natural-language-processing
+Forex Prediction Using neural networks to predict movement of forex direction.,natural-language-processing
+"Lyrics-Based Music Genre Classifier Classify the genre (Rock, Pop, Hip-Hop, Not Available, Metal, Other, Country, Jazz, Electronic, R&B, Indie, Folk) of the song by its lyrics.",natural-language-processing
+"ARBML Implementation of many Arabic NLP and ML projects. Providing real time experience using many interfaces like web, command line and notebooks.",natural-language-processing
+"Pix2Pix with Tf-js Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...",computer-vision
+Zero Shot Topic Classification Bart with a classification head trained on MNLI.,natural-language-processing
+"Illustrated Guide to Transformers: Step by Step Explanation In this post, we’ll focus on the one paper that started it all, “Attention is all you need”.",natural-language-processing
+Illustrated Guide to Transformers A component by component breakdown analysis.,natural-language-processing
+"Automatic-Face-Detection-Annotation-and-Preprocessing Automatically detect , annotate , collect the coordinates , convert to csv and to tfrecord",computer-vision
+Font Recognition Using Deep Learning - DeepFont ( Adobe ) DeepFont Paper is a technique created by Adobe.Inc to detect font from images using deep learning . They published their work as a paper for the public .,computer-vision
+SmartFeed.ai NLP Based Article Recommendation System ,natural-language-processing
+Wheat Detection 🌾 This is a project for detecting and creating bounding box of wheat heads 🌾.,computer-vision
+Effects of News Sentiments on Stock Predictions Project is based on the Natural Language Processing technique called Sentiment Analysis. Stock market and news related to it as the subject of analysis.,natural-language-processing
+NLP News Category The objective of this repository is to create a NLP bot for when you give the robot the headline of the news and a short description it will return the genre.,natural-language-processing
+"AI Debate Master Created and deployed a bot made to debate with a human on any
+given topic. Employed a Doc2Vec model using Gensim library in Python",natural-language-processing
+"Zero-Shot Learning for Text Classification A visual summary of “Train Once, Test Anywhere” paper for zero-shot text classification",natural-language-processing
+Building Footprint Extraction The project retrieves satellite imagery from Google and performs building footprint extraction using a U-Net. ,computer-vision
+Dash DETR Detection App A User Interface for DETR built with Dash. 100% Python.,computer-vision
+AI Basketball Analysis 🏀   AI web app and API to analyze basketball shots and shooting pose. ,computer-vision
+Reverse Image Search Have you ever wondered how google image search works or How amazon can retrieve products similar to the image that we upload in the app/site? To achieve this ta,computer-vision
+Beginner’s guide to Machine Learning Model Deployment Are you a beginner in the field of machine learning and wondering how to bring your project to live. I'm was in the same situation when I started learning ML. M,mlops
+MedicalZoo PyTorch A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation,computer-vision
+"Paraphrase Any Question with T5  (Text-To-Text  Transformer) Given a question, generate paraphrased versions of the question with T5 transformer. Pretrained model and training script provided.",natural-language-processing
+Movie Recommendation System This is a web app which recommends movies based on their plots found on IMDb.,natural-language-processing
+Convnet Galaxy Morphology Classifier Classify galaxies from Hubble Tuning Fork using Convnet. ,computer-vision
+2nd Place Solution to Ship Identification Hackathon  The problem statement was to identify the type of ship from photos taken from the survey boats. The hackathon was organized by Analytics Vidhya.,computer-vision
+Deep learning Architecture: AlexNet Explaining network architecture for AlexNet,computer-vision
+"Movement Pruning: Adaptive Sparsity by Fine-Tuning We propose the use of movement pruning, a simple, deterministic first-order weight pruning method that is more adaptive to pretrained model fine-tuning.",natural-language-processing
+Document search engine NLP based search engine for single page pdf files.,natural-language-processing
+"Reinforcement Learning in JAX Implementation of interesting Deep Reinforcement Learning Algorithms using JAX based libraries (flax, haiku and rlax) As of now tasks come from OpenAI gym",reinforcement-learning
+"Softbot design with WANNS Soft robots are robots built from highly compliant materials, similar to those found in living organisms. This project explored CPPNs and WANNs to design them",reinforcement-learning
+Motion2Vec Semi-Supervised Representation Learning from Surgical Videos,computer-vision
+Machine Learning: Tests and Production Best practices for testing ML-based systems.,mlops
+"Generate True or False questions from any content Automatically generate “True or False” questions like the ones you see in school textbooks using  OpenAI GPT2, Sentence BERT, and Berkley parser",natural-language-processing
+Sized Fill-in-the-blank or Multi Mask filling with RoBERTa Sized fill-in-the-blank or conditional text filling is the idea of filling missing words of a sentence with the most probable choice of words.,natural-language-processing
+T5 for Sentiment Span Extraction Exploring how T5 works and applying it for sentiment span extraction.,natural-language-processing
+Getting Started with Time Series analysis using Pandas An introductory guide to get started with the Time Series datasets in Python,time-series
+"Melanoma Detection with Pytorch In this video, I show you how you can build a deep learning model to detect melanoma with a very high accuracy.",computer-vision
+"RoBERTa → Longformer: Build a ""Long"" Version of Pretrained Models This notebook replicates the procedure descriped in the Longformer paper to train a Longformer model starting from the RoBERTa checkpoint. ",natural-language-processing
+Learning Dexterity End-to-End We trained a human-like robot hand to manipulate physical objects with unprecedented dexterity.,reinforcement-learning
+A Practical guide to building a conversational chatbot Building a Chatbot from scratch using Keras and NLTK library for a customer service company,natural-language-processing
+"Web Mining and Information theory Mining the Web and playing with Natural Language processing. Implementing Information retrieval System tasks. Going towards the NLP and Performing Machine Learning algorithms. Through these codes and problems, I have understood the information retrieval process of any search engine. These are very useful problems towards sentiment analysis.",natural-language-processing
+GaborNet Modified network architecture that focuses on improving convergence and reducing training complexity.,computer-vision
+Learning To Classify Images Without Labels A two-step approach where feature learning and clustering are decoupled.,computer-vision
+Deep Q-Network on Space Invaders.  This is a PyTorch implementation of a Deep Q-Network agent trained to play the Atari 2600 game of Space Invaders.,reinforcement-learning
+YOLOv4 A TensorFlow 2.0 implementation of YOLOv4: Optimal Speed and Accuracy of Object Detection.,computer-vision
+Acme: A Research Framework for Reinforcement Learning A library of reinforcement learning components and agents.,reinforcement-learning
+From Pre-trained Word Embeddings to Pre-trained Language Models from Static Word Embedding to Dynamic (Contextualized) Word Embedding.,natural-language-processing
+Converting images to TF Records A Colab Notebook showing how to convert an image dataset (for classification) to TF Records and more.,computer-vision
+doc2vec Paragraph Embeddings for Text Classification Text classification model which uses gensim's Doc2Vec for generating paragraph embeddings and scikit-learn Logistic Regression for classification. ,natural-language-processing
+"Machine Learning with Fastai The fastai library is based on research into deep learning best practices undertaken at fast.ai, and includes support for Vision, Text, tabular and Collab",computer-vision
+"The Transformer … “Explained”? An intuitive explanation of the Transformer by motivating it through the lens of CNNs, RNNs, etc.",natural-language-processing
+"TensorflowTTS: Real-Time SOTA Speech Synthesis for Tensorflow 2.0 TensorflowTTS provides real-time state-of-the-art speech synthesis architectures such as Tacotron2, Melgan, FastSpeech.",natural-language-processing
+"PyTorch Transformers Tutorials A set of annotated Jupyter notebooks, that give user a template to fine-tune transformers model to downstream NLP tasks such as classification, NER etc. ",natural-language-processing
+BERT Summarization This folder contains colab notebooks that guide you through the summarization by BERT and GPT-2 to play with your data.,natural-language-processing
+Divide Hugging Face Transformers Training Time By 2 Reducing training time helps to iterate more in a fixed budget time and thus achieve better results.,natural-language-processing
+How NLP has evolved for Financial Sentiment Analysis Do we still need humans to read boring financial statements?,natural-language-processing
+The NLP Pandect - All NLP resources in one place The NLP Pandect was created to help you find almost anything related to Natural Language Processing that is available online.,natural-language-processing
+Summary of 🤗 Transformers Models A high-level summary of the differences between each model in HuggingFace's Transformer library.,natural-language-processing
+Snaked: Classifying Snake Species using Images Proof of concept that it is possible to identify snake species and whether poisonous from photographs (PyTorch code/model with Android app),computer-vision
+Literate Lamp: Answering Question with Common Sense We study the problem of answering questions that require common sense to be answered using Transformer-based models and the ConceptNet knowledge base.,natural-language-processing
+Pytorch Faster RCNN Fine Tune Faster RCNN in pytorch for your task.,computer-vision
+Paragraph Summarizer Uses the extractive way of summarizing the text by finding the score and ranking it.,natural-language-processing
+Leafy: Plant Leaf Classifier The sequential model trained on images from the leafsnap.com,computer-vision
+"COVID-Q: A Dataset of 1,690 Questions about COVID-19 This dataset consists of COVID-19 questions which have been annotated into a broad category (e.g. Transmission, Prevention) and a more specific class such that ",natural-language-processing
+Keras notifications on Slack! Get slack notifications of your model's training progress when training with Keras (or tf.keras),computer-vision
+Zero-shot Text Classification With Generative Language Models An overview of a text generation approach to zero-shot text classification with GPT-2,natural-language-processing
+Funnel-Transformer: Filtering out Sequential Redundancy Funnel-Transformer is a self-attention model that gradually compresses the sequence of hidden states to a shorter one and hence reduces the computation cost.,natural-language-processing
+Timeseries Anomaly Detection using an Autoencoder Detect anomalies in a timeseries using an Autoencoder.,time-series
+"Fairseq-tagging a Fairseq fork for sequence tagging/labeling tasks
+",natural-language-processing
+"Know-Corona : Kaggle COVID-19 Open Research Dataset Challenge (CO NLP/state-of-the-art language model (BERT) based Question & Answering pipeline to answer all task questions after analyzing articles abstract of COVID-19, SARS-",natural-language-processing
+Automatic Asset Classification This project aims to automate the task of labelling images of flood defence assets as well as clustering images to find possibly better groupings.,computer-vision
+TransformerTTS 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.,natural-language-processing
+How Big Should My Language Model Be? Tool to explore language model training and optimize the compute costs.,natural-language-processing
+MSeg: A Composite Dataset for Multi-domain Semantic Segmentation A composite dataset that unifies semantic segmentation datasets from different domains.,computer-vision
+"Network Fusion for Content Creation With Conditional Inns We present a method to repurpose powerful, existing models for new tasks, even though they have never been designed for them.",computer-vision
+"Advanced Deep Learning for Computer Vision (ADL4CV) The Visual Computing Group offers a variety of lectures and seminars on a regular basis, covering hot areas in computer graphics, vision, and machine learning.",computer-vision
+Text Classification using Bert from Tensorflow-Hub This Tutorial helps to learn about Bert Models for Classification  task on a #Tweet dataset.,natural-language-processing
+Linformer: Self-Attention with Linear Complexity We demonstrate that the self-attention mechanism can be approximated by a low-rank matrix.,natural-language-processing
+"Getting Machine Learning to Production Machine learning is hard and there are a lot, a lot of moving pieces.",mlops
+Exploration Strategies in Deep Reinforcement Learning Exploitation versus exploration is a critical topic in reinforcement learning. This post introduces several common approaches for better exploration in Deep RL.,reinforcement-learning
+"Automatically Generate Multiple Choice Questions (MCQs)  Automatically Generate Multiple Choice Questions (MCQs) from any content with BERT Summarizer, Wordnet, and Conceptnet",natural-language-processing
+Exploring Knowledge Captured in Probability of Strings An exploration of simple knowledge captured by language models with code examples,natural-language-processing
+"BERT Loses Patience: Fast and Robust Inference with Early Exit Patience-based Early Exit, a inference method that can be used as a plug-and-play technique to simultaneously improve the efficiency of a pretrained LM.",natural-language-processing
+PEGASUS: a SOTA model for Abstractive Text Summarization A State-of-the-Art Model for Abstractive Text Summarization.,natural-language-processing
+Big GANs Are Watching You  We demonstrate that object saliency masks for GAN-produced images can be obtained automatically with BigBiGAN.,computer-vision
+Sentiment Analysis on News Article Used Twitter API to extract news-related tweets. Did some preprocessing and then calculated the tweets' polarity.,natural-language-processing
+"GPT-3 Language Model: A Technical Overview Technical details of the GPT-3 model, training, inference and what to expect next. ",natural-language-processing
+OpenAI API API for accessing new AI models developed by OpenAI.,natural-language-processing
+Implementation of a Contextual Chatbot in PyTorch Simple chatbot implementation with PyTorch.,natural-language-processing
+Author Identification using Doc2Vec Web app of an author identification model trained on PAN 2012 dataset and Kaggle's Spooky Authorship Dataset,natural-language-processing
+Training game agents with supervised learning This is a continuing research project trying find ways to learn complex tasks such as games without using Reinforcement Learning.,reinforcement-learning
+Short Notes on Batch Constrained Deep Reinforcement Learning Blog article on Off-Policy Deep Reinforcement Learning without Exploration paper by Fujimoto et al. (ICML 2019),reinforcement-learning
+"Baymax - ChatBot Baymax Chatbot is a part of my summer training program @AdHoc Networks, Jaipur.
+
+A chatbot that allows user to signup and login to maintain their record. When c",natural-language-processing
+How to Evaluate Longformer on TriviaQA using NLP We will evaluate a pretrained LongformerForQuestionAnswering model on the validation dataset of TriviaQA.,natural-language-processing
+"Extracting Structured Data from Templatic Documents Automatically extract data from structured documents—invoices, receipts, etc.—with the potential to streamline many business workflows.",computer-vision
+"StackOver Flow Data Analysis Analysing certain aspects of the stack overflow data and creating ""Tag Predictor"" which predicts tag based on the post posted. ",natural-language-processing
+Super-resolution Variational Auto-Encoders VAE with RealNVP prior and Super-Resolution VAE in PyTorch.,computer-vision
+Video object grounding Video object grounding using semantic roles in language description. ,computer-vision
+Short Notes on Behavior Regularized Offline RL Blog Article on Behavior Regularized Offline Reinforcement Learning by Yifan Wu et al. (2019),reinforcement-learning
+"Entity Embedding with LSTM for Time-Series Demonstration of using LSTM for forecasting with structured time-series data, containing categorical and numerical features.",time-series
+Why We Switched from Flask to FastAPI for Production ML The most popular tool isn’t always the best.,mlops
+Building a Captcha OCR in TF2.0 A Kaggle notebook showcasing the use of an Endpoint layer for CTC loss function used for building a Captcha Reader in TensorFlow.,computer-vision
+From GRU to Transformer How recurrent units and self-attention are related to each other.,natural-language-processing
+101 Ways to Solve Search - Dair AI ft. Pratik Bhavsar A comprehensive overview of explaining how NLP is used for search.,natural-language-processing
+Melanoma Classification This was Shubhamai 3-week project for working a new kaggle competition and deploying a web application to predicting benign or malignant based on images.,computer-vision
+Universal Sentence Encoder Visually Explained A deep-dive into how Universal Sentence Encoder learns to generate fixed-length sentence embeddings,natural-language-processing
+Multimodal Meme Classification UNITER has given state of the art results in various image-text related problems. This project aims at finetuning UNITER to solve Hateful memes challenge,computer-vision
+Image Smoothing via L0 Gradient Minimization This is a edge-aware image smoothing algorithm. This algorithm tries to smoothen the image while preserving the global structural information of the image. ,computer-vision
+BERT NLP — How To Build a Question Answering Bot Understanding the intuition with hands-on PyTorch code for BERT fine-tuned on SQuAD.,natural-language-processing
+EfficientDet (PyTorch) A PyTorch implementation of EfficientDet faithful to the original Google implementation with ported weights.,computer-vision
+"Interpretable Machine Learning for Computer Vision Recent progress we made on visualization, interpretation, and explanation methodologies for analyzing both the data and the models in computer vision.",computer-vision
+"Predicting Unintentional Action in Video We introduce a dataset of in-the-wild videos of unintentional action, as well as a suite of tasks for recognizing, localizing, and anticipating its onset. ",computer-vision
+" Synthesizing High-Resolution Images with StyleGAN2 Developed by NVIDIA Researchers, StyleGAN2 yields state-of-the-art results in data-driven unconditional generative image modeling.",computer-vision
+"PIFuHD: High-Resolution 3D Human Digitization  This repository contains a pytorch implementation of ""Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization"".",computer-vision
+"SuperGlue: Learning Feature Matching with Graph Neural Networks SuperGlue, a neural network that matches two sets of local features by jointly finding correspondences and rejecting non-matchable points.",graph-learning
+Instance Shadow Detection Instance shadow detection aims to find shadow instances paired with object instances.,computer-vision
+Detectron2 FAIR's next-generation platform for object detection and segmentation.,computer-vision
+"Open Compound Domain Adaptation Pytorch implementation for ""Open Compound Domain Adaptation""",computer-vision
+tslearn A machine learning toolkit dedicated to time-series data.,time-series
+PyTorch3D FAIR's library of reusable components for deep learning with 3D data.,computer-vision
+Course Review - Causal Inference Types of understanding that causal inference researchers value.,reinforcement-learning
+"Unsupervised Learning of Probably Symmetric Deformable 3D Objects A method to learn 3D deformable object categories from raw single-view images, without external supervision.",computer-vision
+A Guide to Natural Language Processing With AllenNLP basics of using AllenNLP,natural-language-processing
+"Real Time Object Detection using CNN YOLO This project is done on real time object detection using a deep learning object detection algorithm i.e., YOLO.",computer-vision
+Short Notes on Model-Based Offline Reinforcement Learning (MOReL) Blog article on Model-Based Offline Reinforcement Learning (MOReL) paper by Rahul Kidambi & Aravind Rajeswaran et al.,reinforcement-learning
+Sudoku-Game-Solver This is a Computer Vision Application that solves a 9x9 sudoku board game using Deep Learning and Backtracking algorithm.,computer-vision
+Smart Picture Editor Tool to automatically remove unwanted objects from photos,computer-vision
+Image GPT: Generative Pretraining from Pixels  Transformers trained on pixel sequences can generate coherent image completions and samples.,computer-vision
+Q*BERT Agents that build knowledge graphs and explore textual worlds by asking questions.,natural-language-processing
+Object Goal Navigation using Goal-oriented Semantic Exploration Embodied interactive learning for object detection by using semantic curiosity to learn an exploration policy on set of the training environments.,computer-vision
+History of Language Models - Alec Radford A quick history of language models,natural-language-processing
+"Traffic-Sign-Recognition-Using-Deep-Learning The training dataset contains around 39,000 images while test dataset contains around 12,000 images containing 43 different classes. We will be using Convolutio",computer-vision
+Generate Boolean (Yes/No) Questions From Any Content  Question generation algorithm trained on the BoolQ dataset using T5 text-to-text transformer model.,natural-language-processing
+Fast Neural Style Transfer (feed-forward method) ⚡💻 + 🎨 = ❤️ This repo contains a concise PyTorch implementation of the original feed-forward NST paper.,computer-vision
+Diverse Image Generation via Self-Conditioned GANs A simple but effective unsupervised method for generating realistic & diverse images using a class-conditional GAN model without using manually annotated class.,computer-vision
+Using GitHub Actions for MLOps & Data Science A collection of resources on how to facilitate Machine Learning Ops with GitHub.,mlops
+Long Form Question Answering with ELI5 A model for open domain long form question answering.,natural-language-processing
+RepNet - Class Agnostic Video Repetition Counting in the Wild Counting Out Time: Class Agnostic Video Repetition Counting in the Wild,computer-vision
+"Cut, Paste and Learn: Surprisingly Easy Synthesis for Detection Generate synthetic scenes and bounding box annotations for object detection.",computer-vision
+Image and Bounding Box Annotation Slicer This easy-to-use library slices (also resizes) images and its bounding box annotations into tiles of specific sizes or any arbitrary number of equal parts. ✂️,computer-vision
+"Machine Learning Projects  This Repo contains projects done by me while learning the basics. All the familiar types of regression, classification, and clustering methods have been used.",natural-language-processing
+Huggingtweets This is a streamlit app built around the huggingtweets project. I fine-tune a pre-trained gpt2 model to tweet like a user given twitter handle.  ,natural-language-processing
+The Future of Computer Vision is Self-Supervised Learning Talk by Yann Lecun on the applications of self-supervised learning on computer vision during CVPR 2020.,computer-vision
+"Using Selective Attention in Reinforcement Learning Agents In this work, we establish that self-attention can be viewed as a form of indirect encoding, which enables us to construct highly parameter-efficient agents.",reinforcement-learning
+A Visual Guide to FastText Word Embeddings A deep-dive into how FastText enriches word vectors with sub-word information  ,natural-language-processing
+codeBERT - Masked Language Model for source code  Tutorial to use codeBERT a MLM for Python code. Model trained from scratch using roBERTa,natural-language-processing
+"Autocoder - Finetuning GPT-2 for Auto Code Completion A basic and simple tool for code auto completion, built upon GPT-2",natural-language-processing
+DeepSNAP Python library assists deep learning on graphs.,graph-learning
+RoBERTa meets TPUs Understanding and applying the RoBERTa model to the current challenge.,natural-language-processing
+Deep Model-Based RL for Real-World Robotic Control Short talk about model-based RL by Sergey Levine.,reinforcement-learning
+Pokemon Classifier I want to build a classifier that can classify 150 types of Pokemon.,computer-vision
+Workshop on Scalability in Autonomous Driving - Andrej Karpathy An overview of autonomous driving and computer vision at Tesla.,computer-vision
+Battle-Tested Techniques for Scoping Machine Learning Projects One of the challenges of managing an ML project is project scoping. Even small changes in data or architecture can create huge differences in model outputs.,mlops
+"Classify photos in 600 classes using nine million Open Images If you’re looking build an image classifier but need training data, look no further than Google Open Images.",computer-vision
+Trackable The project deals with tracking humans in a narrow hallway under different lighting conditions.,computer-vision
+Stochastic Segmentation Networks An efficient probabilistic method for modelling aleatoric uncertainty with any image segmentation network architecture.,computer-vision
+Deep Learning for Computer Vision  Special topics class on deep learning for computer vision from the University of Michigan taught by Justin Johnson.,computer-vision
+VPSNet for Video Panoptic Segmentation Video panoptic segmentation by generating consistent panoptic segmentation as well as an association of instance ids across video frames.,computer-vision
+"What I Learned From Looking at 200 Machine Learning Tools To better understand the landscape of available tools for machine learning production, I decided to look up every AI/ML tool I could find.",mlops
+Discovering Symbolic Models from Deep Learning w/ Inductive Bias A general approach to distill symbolic representations of a learned deep model by introducing strong inductive biases.,graph-learning
+Breaking the cycle—Colleagues are all you need A novel approach to performing image-to-image translation between unpaired domains.,computer-vision
+Deep Learning Based Text Classification: A Comprehensive Review An overview of deep learning approaches to text classification.,natural-language-processing
+Multi-task Training with Hugging Face Transformers and NLP  A recipe for multi-task training with Transformers' Trainer and NLP datasets.,natural-language-processing
+jiant A software toolkit for research on general-purpose text understanding models.,natural-language-processing
+"Text Classification Re-implemented an article (link is given below) which was on Text classification with CNN, beside this I tried out some ML classification algorithm.",natural-language-processing
+multi-task-NLP A utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks.,natural-language-processing
+Maximizing Business Impact with Machine Learning how to effectively leverage machine learning to build intelligent products as efficiently as possible.,mlops
+Automatic Data Augmentation for  Generalization in Deep RL We compare three approaches for automatically finding an appropriate augmentation combined with two novel regularization terms for the policy and value function,reinforcement-learning
+High-Fidelity Generative Image Compression How to combine Generative Adversarial Networks and learned compression to obtain a state-of-the-art generative lossy compression system.,computer-vision
+BERT Distillation with Catalyst How to distill BERT with Catalyst.,natural-language-processing
+Unet Model for Image Segmentation With EfficientNet Encoder Implemented using tensorflow 2.2.0 with custom train and test step.,computer-vision
+A Million of ML Predictions at the Tip of Your Fingers Announcement - SashiDo is breaking the barrier to Machine Learning by introducing a fully open-sourced Content Moderation Service.,computer-vision
+NetHack Learning Environment (NLE) A procedurally-generated grid-world dungeon-crawl game that strikes a great balance between complexity and speed for single-agent RL research.,reinforcement-learning
+Paraphrase Generation Using T5 model Simple application using T5 base model fine tuned in Quora Question Pairs to generate paraphrased questions.,natural-language-processing
+"Message Passing Query Embedding MPQE is a model for answering complex queries over knowledge graphs, that learns embeddings of entities in the knowledge graph, & embeddings for variable types.",graph-learning
+"Quantifying Attention Flow in Transformers I explain two simple but effective methods, called Attention Rollout and Attention Flow",natural-language-processing
+Natural Language Processing Roadmap Roadmap for learning NLP topics.,natural-language-processing
+"Weight Poisoning Attacks on Pre-trained Models How Bert can be infused with nefarious behavior, even after fine-tuning.",natural-language-processing
+"Leveraging Temporal Context for Object Detection Object detection architecture leveraging contextual clues across time for each camera deployment in a network, improving recognition of objects",computer-vision
+"Expressive Power of Graph Neural Networks Graph isomorphism problem, the Weisfeiler-Lehman heuristic for graph isomorphism testing, and how it can be used to analyse the expressive power of GNNs.",graph-learning
+"rlx: A modular Deep RL library for research ""rlx"" is a Deep RL library written on top of PyTorch & built for educational and research purpose.",reinforcement-learning
+Building AI Trading Systems Lessons learned building a profitable algorithmic trading system using Reinforcement Learning techniques.,reinforcement-learning
+Introduction to NLP using Fastai Implementing and decoding the revolutionary ULMFiT approach to train a language model on any downstream NLP task.,natural-language-processing
+"Deep Reinforcement Learning Amidst Lifelong Non-Stationarity How can robots learn in changing, open-world environments? We introduce dynamic-parameter MDPs, to capture environments with persistent, unobserved changes. ",reinforcement-learning
+TF Lite Semantic Segmentation Models Faster and lighter TF Lite models can perform semantic segmentation. ,computer-vision
+"Semantic Segmentation + Background Removal + Style Transfer Running multiple TF Lite models to perform semantic segmentation, remove background, and apply style transfer. ",computer-vision
+"Automatic translation of the SQUAD dataset to spanish Machine translation is used on the SQuAD dataset to produce an equivalent dataset in Spanish. Word alignment is applied to produce a synthetic spanisQA corpus.
+",natural-language-processing
+Dakshina Dataset A collection of text in both Latin and native scripts for 12 South Asian languages.,natural-language-processing
+Computer Vision Recipes This repository provides examples and best practice guidelines for building computer vision systems.,computer-vision
+A research guide for data scientists Tips on research from top data scientists,natural-language-processing
+Using Data Science Pipelines for Disaster Response Uses ETL and ML pipeline to build an NLP system for classification of messages into appropriate disaster categories,natural-language-processing
+Twitter Turing Test Can you guess whether this tweet is written by a human or generated by a neural network?,natural-language-processing
+"STUMPY: A Powerful and Scalable Python Library for Time Series STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks.",time-series
+Model Serving using FastAPI and streamlit Simple example of usage of streamlit and FastAPI for ML model serving.,computer-vision
+The Reformer - Pushing the Limits of Language Modeling An in-depth understanding of each of the key features of the Reformer.,natural-language-processing
+"High-Resolution Image Inpainting High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling.
+",computer-vision
+"MARGE: Pre-training via Paraphrasing A retrieval model maps a document to a set of related documents, which a reconstruction model paraphrases to maximize the likelihood of the original. ",natural-language-processing
+3D Detection and Domain Adaptation 1st Place Solution for Waymo Open Dataset Challenge,computer-vision
+Fast Api with Dockerization of your ML Models In this GitHub repo you can able to know and learn how to build a fast API for testing your ML model and can test your ML model with UI and to Dockerize your ML,mlops
+SimCLR - Contrastive Learning of Visual Representations How to load pretrained/finetuned SimCLR models from hub modules for fine-tuning.,computer-vision
+Evaluation of Text Generation: A Survey Evaluation methods of natural language generation (NLG) and language modeling.,natural-language-processing
+"SpineNet: A Novel Architecture for Object Detection A meta architecture called a scale-permuted model that enables two major improvements on backbone architecture design,iscovered with neural architecture search.",computer-vision
+Image synthesis at CVPR 2020 An overview of the different approaches to image synthesis at CVPR 2020.,computer-vision
+Sktime A python toolbox for machine learning with time series.,time-series
+"Sentiment Analysis: Key Milestones, Challenges and New Directions An overview of sentiment analysis, it's progress and what's ahead.",natural-language-processing
+BERTology Meets Biology Interpreting Attention in Protein Language Models.,natural-language-processing
+"Serverless BERT with HuggingFace and AWS Lambda Build a serverless question-answering API with BERT, HuggingFace, the Serverless Framework, and AWS Lambda.",natural-language-processing
+"Model-based Reinforcement Learning: A Survey A survey of the integration of both fields, better known as model-based reinforcement learning.",reinforcement-learning
+"Building Level 3 Conversational AI Assistants Presentations, panels, and fireside chats addressing all topics related to the creation of Level 3 AI assistants.",natural-language-processing
+NSFW Image Classification REST API built with TensorFlow.JS A ready-to-use & open-source NSFW Image Classification REST API built with TensorFlow.JS and NSFW.JS for effortless Content Moderation,computer-vision
+A Survey on Deep Learning for Localization and Mapping Towards the Age of Spatial Machine Intelligence,computer-vision
+Text Data Cleanup - Dynamic Embedding Visualisation Identify noisy text in a Machine Translation dataset through dynamic text embedding visualisation.,natural-language-processing
+"Python Implementation of Reinforcement Learning: An Introduction  Plot replications, exercise solutions and Anki flashcards for the entire book by chapters.",reinforcement-learning
+"Offline Reinforcement Learning Challenges, algorithms and benchmarks.",reinforcement-learning
+"The Simplest Way to Serve your NLP Model in Production w/ Python  From scikit-learn to Hugging Face Pipelines, learn the simplest way to deploy ML models using Ray Serve.",mlops
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings Low-dimensional knowledge graph embeddings that simultaneously capture hierarchical relations and logical patterns.,graph-learning
+Learning to Cartoonize Using White-box Cartoon Representations An approach for image cartoonization using GANs.,computer-vision
+"Reinforcement Learning Tutorial Important reinforcement learning (RL) algorithms, including policy iteration, Q-Learning, and Neural Fitted Q.",reinforcement-learning
+Face Recognition Techniques Face Detection and Recognition techniques using traditional CV and also using new deep learning method.,computer-vision
+Awesome Deep RL This project is built for people who are learning and researching on the latest deep reinforcement learning methods.,reinforcement-learning
+"LSTM Forecast Model for Stock Price Prediction using Keras  Easy to understand LSTM forecast model for Stock Price Prediction. The dataset contains daywise details of the GOOGL stock from May,2019-May 2018.",time-series
+PokeZoo A deep learning based web-app developed using the MERN stack and Tensorflow.js. ,computer-vision
+Anti-Patterns in NLP (8 types of NLP idiots) A talk which discusses the recurring industrial problems in making NLP solutions. ,natural-language-processing
+NLP-task-visualizer-app This application designed with streamlit library will help in visualizing NLP tasks on text entered by you. ,natural-language-processing
+Image Classifier Pure JavaScript Image Classifier,computer-vision
+TaBERT Pretraining for Joint Understanding of Textual and Tabular Data,natural-language-processing
+"Texthero Text preprocessing, representation and visualization from zero to hero.",natural-language-processing
+TensorflowTTS Real-Time State-of-the-art Speech Synthesis for Tensorflow 2.,natural-language-processing
+spaczz: Fuzzy matching and more for spaCy Fuzzy matching and more functionality for spaCy.,natural-language-processing
+BioSyn Biomedical Entity Representations with Synonym Marginalization,natural-language-processing
+Image Classifier: In the Browser Using Tensorflow.js to make the prediction directly in the browser.,computer-vision
+"Photon: A Robust Cross-Domain Text-to-SQL System A robust, modular, cross-domain NLIDB that can flag natural language input to which a SQL mapping cannot be immediately determined. ",natural-language-processing
+Bounding Box Prediction from Scratch using PyTorch Multi-Task learning — Bounding Box Regression + Image Classification,computer-vision
+Comment Classification Using BERT (multi-language) Fine-Tuning We are going to use BERT layer in a model applying Keras.,natural-language-processing
+TextBrewer a PyTorch-based model distillation toolkit for natural language processing.,natural-language-processing
+"codeBERT - Automated code docstring review with transformers codeBERT provide a one command line to check if your code docstrings are up-to-date.
+",natural-language-processing
+How to Benchmark Models with Transformers HuggingFace's Transformer library allows users to benchmark models for both TensorFlow 2 and PyTorch using the PyTorchBenchmark and TensorFlowBenchmark classes.,natural-language-processing
+Continuous Machine Learning (CML) CML helps to organize MLOps infrastructure on top of the traditional software engineering stack instead of creating separate AI platforms.,mlops
+"picTranslate: Seamless live Image Text translator Given an image with text on it, this app can give you a new image with text modified into a different language.",computer-vision
+TUDatasets A collection of benchmark datasets for graph classification and regression.,graph-learning
+Full Stack Deep Learning Full Stack Deep Learning helps you bridge the gap from training machine learning models to deploying AI systems in the real world.,mlops
+"Easy OCR Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
+
+",computer-vision
+Linear Attention Transformer A fully featured Transformer that mixes (QKᵀ)V local attention with Q(KᵀV) global attention (scales linearly with respect to sequence length).,natural-language-processing
+"Emotion Recognition from Tom and Jerry videos Developed an application that classifies the emotion depicted by Tom and Jerry in each frame into one of the following : happy, angry, sad or suprised.",computer-vision
+Imagenette Imagenette is a subset of 10 easily classified classes from Imagenet.,computer-vision
+TextAugment Improving Short Text Classification through Global Augmentation Methods,natural-language-processing
+"niacin A Python library for replacing the missing variation in your text data.
+
+",natural-language-processing
+"imgaug Image augmentation for machine learning experiments.
+
+",computer-vision
+Albumentations Fast image augmentation library and easy to use wrapper around other libraries.,computer-vision
+Augmentor Image augmentation library in Python for machine learning.,computer-vision
+tsfresh Automatic extraction of relevant features from time series.,time-series
+"All Models and checkpoints - Hugging Face Massive (and growing) collection of NLP models are nearly any NLP tasks, especially those involving the use of transformers.",natural-language-processing
+"Anomaly Detection Toolkit (ADTK) A Python toolkit for rule-based/unsupervised anomaly detection in time series
+
+",time-series
+Chakin  Simple downloader for pre-trained word vectors.,natural-language-processing
+"Top2Vec Top2Vec learns jointly embedded topic, document and word vectors.
+
+",natural-language-processing
+Contextualized Topic Models A python package to run contextualized topic modeling.,natural-language-processing
+"FlashText Extract Keywords from sentence or Replace keywords in sentences.
+
+",natural-language-processing
+jellyfish 🎐 a python library for doing approximate and phonetic matching of strings.,natural-language-processing
+"SentencePiece Unsupervised text tokenizer for Neural Network-based text generation.
+
+",natural-language-processing
+A Deep Dive into the Wonderful World of Preprocessing in NLP A glimpse into the surprisingly deep and interesting world of preprocessing in NLP.,natural-language-processing
+"Text Preprocessing in Python using spaCy library In this article, we have explored Text Preprocessing in Python using spaCy library in detail. This is the fundamental step to prepare data for applications.",natural-language-processing
+"Segmentation Models Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
+
+",computer-vision
+"Pytest The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+
+",mlops
+"Artifacts - Weights & Biases Effortless pipeline tracking and production model management
+
+",mlops
+DeepkitAI The Open-Source Machine Learning Devtool and Training Suite.,mlops
+Neptune.ai The most lightweight experiment management tool that fits any workflow.,mlops
+Rasa An open source machine learning framework to automate text-and voice-based conversations. ,natural-language-processing
+MLflow: A Machine Learning Lifecycle Platform Open source platform for the machine learning lifecycle.,mlops
+"token2index A lightweight but powerful library to build token indices for NLP tasks, compatible with major Deep Learning frameworks like PyTorch and Tensorflow.",natural-language-processing
+TF Sprinkles Fast and efficient sprinkles augmentation implemented in TensorFlow.,computer-vision
+Laplacian Pyramid Reconstruction and Refinement for Semantic Seg.  Pytorch implementation of multi-resolution reconstruction architecture based on a Laplacian pyramid that uses skip connections.,computer-vision
+"Training a pets detector model with TFOD API (TF 2) In this notebook, we will be training a custom object detection model using the latest TensorFlow Object Detection (TFOD) API which is based on TensorFlow 2.2. ",computer-vision
+TensorFlow 2 meets the Object Detection API TF Object Detection API (OD API) officially supports TensorFlow 2!,computer-vision
+Cortex Build machine learning APIs.,mlops
+Semi-Supervised Learning in Computer Vision A comprehensive overview of recent semi-supervised learning methods in Computer Vision,computer-vision
+Face Predicting Web App Interactive Deep Learning Model that utilizes your computer webcam to predict your age and gender in seconds! ,computer-vision
+"Driver Identification Based on Vehicle's telematics data In this paper, we proposed a deep learning model, which can identify drivers from their driving behaviors based on vehicle telematics data.",computer-vision
+"Comprehensive analysis of important metrics in ML In this work, the authors present a comprehensive analysis of important metrics in practical applications.",computer-vision
+"StreamAlert A serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerts.",mlops
+"The Transformer Neural Network Architecture Explained ⚙️ It is time to explain how Transformers work. If you are looking for an easy explanation, you are exactly right!",natural-language-processing
+ULMFiT Airline Sentiment Analysis Transfer Learning using pretrained ULMFiT model,natural-language-processing
+DeepDream Video Style Transfer DeepDream on Video,computer-vision
+QSVM Quantum SVM for sentiment analysis,natural-language-processing
+"You Trained a Machine Learning Model, Now What? Three often overlooked parts of this process occur after the model is actually built: model evaluation, deployment, and monitoring.",mlops
+"NSFW Image Moderation Automation Engine built with TensorFlow.JS  An open-source NSFW Image Classifier including an Automation Engine for fast deletion & moderation built with Node.js, TensorFlow, and Parse Server",computer-vision
+PDFTableExtract Build a parser to extract the table in PDF document with RetinaNet,computer-vision
+"PYthon Automated Term Extraction Term extraction algorithms such as C-Value, Basic, Combo Basic, Weirdness and Term Extractor using spaCy POS tagging.",natural-language-processing
+"YOLOv4 With TensorFlow YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite.",computer-vision
+Selfie2Anime with TFLite An end-to-end tutorial with TensorFlow Lite for Selfie2Anime (U-GAT-IT). ,computer-vision
+"Bridging PyTorch and TVM Taking Hugging Face transformer BERT from PyTorch and running it on 
+ApacheTVM for both inference (with reasonable timings) and training.",natural-language-processing
+Interpretability and Analysis of Models for NLP An in-depth look at interpretability and analysis of models for NLP (ACL 2020).,natural-language-processing
+Summarize a webapge A Flask application that extracts and summarizes webpage using Natural Language Processing. Powered by nlp-akash.,natural-language-processing
+An Icon Classifier with TensorFlow Lite Model Maker An Icon Classifier with TensorFlow Lite Model Maker,computer-vision
+"Cross-lingual Transfer Learning - Sebastian Ruder An overview of approaches that transfer knowledge across languages and enable us to scale NLP models to more of the world's 7,000 languages.",natural-language-processing
+AdapterHub: A Framework for Adapting Transformers Huggingface Transformers + Adapters,natural-language-processing
+Object Detection with RetinaNet Implementing RetinaNet: Focal Loss for Dense Object Detection.,computer-vision
+"Deploying your ML Model with TorchServe In this talk, Brad Heintz walks through how to use TorchServe to deploy trained models at scale without writing custom code. ",mlops
+Medical Zoo - 3D Multi-modal Medical Image Segmentation My articles on deep learning in medical imaging,computer-vision
+Computer Vision Pretrained Models A collection of computer vision pre-trained models.,computer-vision
+Monitoring Machine Learning Models in Production Once you have deployed your machine learning model to production it rapidly becomes apparent that the work is not over.,mlops
+"NLP Pretrained Models A collection of Natural language processing pre-trained models.
+
+",natural-language-processing
+"Machine Learning Production Pipeline Project Flow and Landscape
+",mlops
+"Tempering Expectations for GPT-3 and OpenAI’s API A closer look at the ""magic"" behind GPT-3 and caveats to be aware of.",natural-language-processing
+StyleGAN Encoder Encodes real images into the latent space of a StyleGAN model.,computer-vision
+WikiArt StyleGAN 2 Model A conditional StyleGAN 2 model trained on images from WikiArt,computer-vision
+"Quora Question Pair Similarity Identify which questions asked on Quora are duplicates of questions that have already been asked. Using Text features, classifying them as duplicates or not.
+
+",natural-language-processing
+"Indian Paper Currency Prediction The trained model takes an image (Indian Paper Currency) as an input and predict the class of image from 10, 20, 50, 100, 200, 500, 2000 denomination.",computer-vision
+"Neural Style Transfer (Gatys et al., PyTorch) My implementation of the original neural style transfer paper by Gatys et al. (In PyTorch).",computer-vision
+Implementation of Face Net  in TensorFlow -  2.0 This repository is a naive unofficial  implementation of Face Net paper  - 2015 .This implementation opts online mode of semi - hard triplet mining.,computer-vision
+PyTorch CNN Trainer A simple package to fine-tune CNNs from torchvision and Pytorch Image models by Ross Wightman.,computer-vision
+Azure Machine Learning Template Azure Machine Learning template for MNIST classifier,mlops
+Teachable Machine (Image Classifier) A teachable image classifier that runs on any browser built using TensorFlow JS.,computer-vision
+TensorFlow JS- Object Detection in Browser A real-time object detection model in your browser using TensorFlow JS.,computer-vision
+"How to Stop Worrying About Compositionality Review the tenets of compositionality, and to highlight how each theory has evolved to match particular theoretical positions about the nature of language.",natural-language-processing
+Spacy-Go spacy-go is Golang interface for accessing linguistic annotations provided by spaCy using Google's gRPC. This module only supports basic functionalities like lo,natural-language-processing
+Dframcy DframCy is a light-weight utility module to integrate Pandas Dataframe to spaCy's linguistic annotation and training tasks.,natural-language-processing
+"NSFW Image Moderation Admin App with ReactJS A fully-functional NSFW Admin Application for simplified image classification & moderation built with Node.js, TensorFlow.js, and React",computer-vision
+PyTorch Geometric Temporal A Temporal Extension Library for PyTorch Geometric ,graph-learning
+Why is it Important to Monitor Machine Learning Models? The importance of monitoring and how monitoring ML is different from application performance management (APM).,mlops
+"PyTorch Implementation of PaletteNet PyTorch implementation of PaletteNet: Image Recolorization with Given Color Palette (Cho et al., 2017).",computer-vision
+ECG arrhythmia classification using a convolutional neural net This is an implementation of the paper on ECG arrhythmia classification https://arxiv.org/pdf/1804.06812.pdf.,computer-vision
+Structured Self Attention Implementation for the paper A Structured Self-Attentive Sentence Embedding (https://arxiv.org/abs/1703.03130 ). Model interpretability / explainability.,natural-language-processing
+TurboTransformers A fast and user-friendly runtime for transformer inference on CPU and GPU.,natural-language-processing
+Graphein Protein Graph Library,graph-learning
+"Integrated Gradients in TensorFlow 2 In this tutorial, you will walk through an implementation of IG step-by-step in TensorFlow 2 to understand the pixel feature importances of an image classifier.",computer-vision
+Rasa NLU Examples Experimental components for Rasa NLU pipelines. ,natural-language-processing
+"Change Detection using Siamese networks The blog is a primer on Siamese Networks and how they're used for observing change in satellite images over time, or observing facial changes as people age",computer-vision
+"My Artificial Intelligence Bookmarks A curated list of my reads, implementations, and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.",natural-language-processing
+Do we Need Deep Graph Neural Networks? Does depth in graph neural network architectures bring any advantage?,graph-learning
+Pandera A flexible and expressive pandas data validation library.,mlops
+GPT-3: A Hitchhiker's Guide Post to guide your thinking on GPT-3.,natural-language-processing
+"TensorFlow Serving A flexible, high-performance serving system for machine learning models, designed for production environments. ",mlops
+BentoML BentoML is an open-source framework for high-performance ML model serving.,mlops
+Azure ML MLOps using Azure ML.,mlops
+"Shape and Viewpoint without Keypoints Recover the 3D shape, pose and texture from a single image, trained on an image collection without any ground truth 3D shape, multi-view, camera viewpoints.",computer-vision
+TeachEasy: Web app for Text Summarization & Q/A generation An intuitive Streamlit based web app for Text Summarization and Question Answer generation so as to reduce the work for School teachers.,natural-language-processing
+"Python Template for All Projects A template that gives the batteries required to package code, CI checks, auto build and deploy docs, easy PyPi publishing support and docker files.",mlops
+MLOps Tutorial Series How to create an automatic model training & testing setup using GitHub Actions and Continuous Machine Learning (CML).,mlops
+model-logger Model-Logger is a Python library for storing model's profile and rapid inter model comparison.,mlops
+"Sentiment Analysis With Transformers Sentiment analysis neural network trained by fine-tuning BERT, ALBERT, or DistilBERT on the Stanford Sentiment Treebank.",natural-language-processing
+"Attention based YOLO: Object Detection An easy to follow, YOLO implementation with keras lib.  Used a attention based architecture to extract more fine grained information about object.",computer-vision
+"Evolution of Representations in the Transformer The evolution of representations of individual tokens in Transformers trained with different training objectives (MT, LM, MLM - BERT-style).",natural-language-processing
+"Ensemble methods for object detection In this repository, we provide the code for ensembling the output of object detection models, and applying test-time augmentation for object detection. This lib",computer-vision
+"Close-Domain fine-tuning for table detection In this project, we show the benefits of using models trained on a close domain, using the TableBank dataset, for fine-tuning table detection models. In additio",computer-vision
+LabelDetection: simplifying the use and construction of deep dete LabelDetection is a graphical tool that aims to facilitate all the steps required in the pipeline to construct and use a deep-learning base object detection mod,computer-vision
+"How to Set Up a Python Project For Automation and Collaboration How to set up a Python repo with unit tests, code coverage, lint checking, type checking, Makefile wrapper, and automated build with GitHub Actions.",mlops
+"Understanding & Implementing SimCLR - an ELI5 guide I explain the SimCLR and its contrastive loss function step by step, build image embeddings and then show how to use them to train image classifier on top.",computer-vision
+CoreML Model Zoo Collection of unified and converted pre-trained models.,computer-vision
+How GPT3 Works - Visualizations and Animations A compilation of my threads explaining GPT3. ,natural-language-processing
+"Temporal Graph Networks In this post, we describe Temporal Graph Network, a generic framework for deep learning on dynamic graphs.",graph-learning
+Behavioral Testing of NLP models with CheckList An overview of the “CheckList” framework for fine-grained evaluation of NLP models,natural-language-processing
+Time series forecasting A thorough introduction to time series forecasting using TensorFlow.,time-series
+Real-time text detection with EAST in TFLite Demonstrates the conversion process from the original EAST model to TFLite and how to use it on static images and also on real-time video feeds. ,computer-vision
+"Understanding the Effectivity of Ensembles in Deep Learning The report explores the ideas presented in Deep Ensembles: A Loss Landscape Perspective by Stanislav Fort, Huiyi Hu, and Balaji Lakshminarayanan.",computer-vision
+Image Classification by @carrycooldude Image Classification using TFLite and ImageNet  by  @carrycooldude,computer-vision
+Small differences in BLEU are meaningless Only big differences in metric scores are meaningful in MT.,natural-language-processing
+"Multi-target in Albumentations Many images, many masks, bounding boxes, and key points. How to transform them in sync?",computer-vision
+"Social Distance Detection If people are very close to each other, a red bounding box is displayed around them indicating that they are not maintaining social distance.",computer-vision
+Deep Learning Techniques for NLP in Healthcare A talk discussing the recent advancements of deep learning to facilitate the adaption of NLP in the healthcare domain.,natural-language-processing
+"CLoDSA: A Tool for Augmentation in Computer Vision tasks CLoDSA is an open-source image augmentation library for object classification, localization, detection, semantic segmentation and instance segmentation. It supp",computer-vision
+"Extension to block NSFW content using AI NSFW Filter is an extension that blocks NSFW content from your browser.
+It uses a computer vision model to detect NSFW content and hides it from the user.",computer-vision
+"ATLASS: AutoML using Transfer and Semi-Supervised Learning This repository includes the code, application, and notebooks for the work ""AutoML using Transfer and Semi-Supervised Learning"". The tools presented here can be",computer-vision
+"FrImCla: A framework for image classification 
+FrImCla is an open-source framework for Image Classification using traditional and deep learning techniques. It supports a wide variety of deep learning and c",computer-vision
+UFOD: A Unified Framework for Object Detection UFOD is an open-source framework that enables the training and comparison of object detection models on custom datasets using different underlying frameworks an,computer-vision
+LabelStoma: stomata detection using YOLO LabelStoma is a graphical image tool for automatically detecting stomata in images. ,computer-vision
+DeepClas4Bio DeepClas4Bio is a project that aims to facilitate the interoperability of bioimaging tools with deep learning frameworks.,computer-vision
+Meme Classifier Using TFlite and flutter Meme classifier using fine tuned mobilenet. This app showcases how you can perform low latency realtime classification apps using TFlite,computer-vision
+Text Summarization using TF-IDF Algorithm This Article explains the TF-IDF algorithm and shows the implemtnation from scratch to summarize the text.,natural-language-processing
+"Simple Transformers Transformers for Classification, NER, QA, Language Modeling, Language Generation, T5, Multi-Modal, and Conversational AI.",natural-language-processing
+Why You Should Do NLP Beyond English 7000+ languages are spoken around the world but NLP research has mostly focused on English. This post outlines why you should work on languages other than Eng.,natural-language-processing
+DeText: A Deep Neural Text Understanding Framework DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.,natural-language-processing
+"Haystack — Neural Question Answering At Scale 🔍 Transformers at scale for question answering & search
+
+",natural-language-processing
+Efficient Serverless Deployment of PyTorch Models on Azure A tutorial for serving models cost-effectively at scale using Azure Functions and ONNX Runtime.,mlops
+Nearest Celebrity Face Implementation of FaceNet: A Unified Embedding for Face Recognition and Clustering to find the celebrity whose face matches the closest to yours. The input face,computer-vision
+A Few Favorite Recipes in Computer Vision & Deep Learning This blog post enlists a few of my favorite recipes in deep learning in the context of computer vision (as of August 2020).,computer-vision
+NeuralQA - API and Visual Interface for Extractive QA A Usable Library for Question Answering on Large Datasets with BERT,natural-language-processing
+"Object tracking in 75 lines of code Object tracking is straightforward conceptually. And if you have a good detector, simple methods can be pretty effective.",computer-vision
+FARM: Framework for Adapting Representation Models 🏡 Fast & easy transfer learning for NLP. Harvesting language models for the industry.,natural-language-processing
+Finding Similar Documents with Transformers How transformers can help us distill text documents into points in N-dimensional vector spaces.,natural-language-processing
+Act - GitHub Actions locally Run your GitHub Actions locally.,mlops
+"Curated papers & articles on DS & ML in production Learn how organizations & business solved machine learning problems, including problem statement, research, methodology, and results.",mlops
+"Tensorflow2 Object Detection Tutorial In this tutorial, we will be going step by step the complete training process of Tensorflow2 Object Detection. ",computer-vision
+A Barebones Image Retrieval System This project presents a simple framework to retrieve images similar to a query image.,computer-vision
+"ONNX T5 Summarization, translation, Q&A, text generation and more at blazing speed using a T5 version implemented in ONNX.",natural-language-processing
+DeLighT: Very Deep and Light-weight Transformers Similar or better performance than transformer-based models with significantly fewer parameters,natural-language-processing
+Evaluation Metrics For Information Retrieval Learn about common metrics used to evaluate performance of information retrieval systems,natural-language-processing
+Test-Time Data Augmentation Tutorial on how to properly implement test-time image data augmentation in a production environment with limited computational resources.,mlops
+"SadedeGel: An extraction based Turkish news summarizer ""Sadede Gel"" in Turkish, means ""cut to the chase"".  ",natural-language-processing
+MobyDick word frequency Getting the count of the words in Moby Dick story using both web scraping and NLP,natural-language-processing
+Image Classification with Keras Build a pipeline to train an image classifier in Keras and tune hyperparameters to optimize the performance of our classifier.,computer-vision
+"Dropout in PyTorch – An Example An example of adding Dropout to a PyTorch model, and observe the effect dropout has on the model's performance by tracking our models in Weights & Biases.",computer-vision
+Fast Sentence Embeddings (fse) Fast Sentence Embeddings is a Python library that serves as an addition to Gensim.,natural-language-processing
+"Data Science Meets Devops: MLOps with Jupyter, Git, & Kubernetes An end-to-end example of deploying a machine learning product using Jupyter, Papermill, Tekton, GitOps and Kubeflow.",mlops
+Detectron 2 Demo from Facebook This Project contains the process of getting started with Facebook FAIR's detectron2 project on windows 10 without any Nvidia GPU.,computer-vision
+Predict Vehicle Speed From Dash Cam Video A series of experiments attempting to predict vehicle speed from dash cam videos using optical flow and neural networks.,computer-vision
+Digital Image Processing in Python Play around with pixel values with Python programming language.,computer-vision
+"A 2020 guide to Semantic Segmentation Concept of image segmentation, discuss the relevant use-cases, different neural network architectures involved in achieving the results, metrics and datasets.",computer-vision
+Fast NST for Videos (+ person segmentation) 🎥 + ⚡💻 + 🎨 = ❤️ Create NST videos and pick separate styles for the person in the video and for the background.,computer-vision
+"Live demo : State-of-the-art MCQ Generator from any content Demo for state-of-the-art MCQ (Multiple Choice Questions) generator from any content built using T5 transformer, HuggingFace, and Sense2vec
+",natural-language-processing
+"InvoiceNet Deep neural network to extract intelligent information from PDF invoice documents.
+",computer-vision
+"Search for visual datasets By task, application, class, label or format.",computer-vision
+GAN-BERT Enhancing the BERT training with Semi-supervised Generative Adversarial Networks.,natural-language-processing
+tsaug A Python package for time series augmentation.,time-series
+Machine Learning Pipelines for Kubeflow. Kubeflow pipelines are reusable end-to-end ML workflows built using the Kubeflow Pipelines SDK.,mlops
+"Structuring Unit Tests in Python Where to put tests, how to write fixtures and the awesomeness of test parametrization.",mlops
+DeepR — Training TensorFlow Models for Production DeepR is a Python library to build complex pipelines as easily as possible on top of Tensorflow.,mlops
+"Neural Architecture Search A look at neural architecture search w.r.t search space, search algorithms and evolution strategies.",reinforcement-learning
+"How to Trust Your Deep Learning Code We will focus on how to write reusable unit tests, so that you “Don’t repeat yourself”.",mlops
+"Temporal Convolutional Networks for Time-Series We introduce several novels using TCN, including improving traffic prediction, sound event localization & detection, and probabilistic forecasting.",time-series
+"Machine Learning Deployment: Shadow Mode “How do I test my new model in production?” One answer, and a method I often employ when initially deploying models, is shadow mode.",mlops
+Unpopular Opinion - Data Scientists Should Be More End-to-End I believe data scientists can be more effective by being end-to-end.,mlops
+"Extract Stock Sentiment from News Headlines  In this project, you will generate investing insight by applying sentiment analysis on financial news headlines from Finviz. ",natural-language-processing
+hloc - the hierarchical localization toolbox Visual localization made easy.,computer-vision
+Practical Tips and Tricks for Successful Transfer Learning Training models to learn knowledge and skills from other related tasks that will transfer and boost performance on tasks of interest.,natural-language-processing
+txtai: AI-powered search engine AI-powered search engine.,natural-language-processing
+"Drowsiness Detection System using OpenCV and Flask in Python  This system provides an overview of a system that detects whether a person is drowsy while driving and if so, alerts him by using voice messages in real-time. ",computer-vision
+"GPT-3, The model simply knows! Brief Introduction about the gigantic GPT-3. a new leap in AI and Natural Language processing. ",natural-language-processing
+Solaris CosmiQ Works Geospatial Machine Learning Analysis Toolkit.,computer-vision
+Safe Space - Github Action Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces.,natural-language-processing
+"Intro to Autoencoders This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection.",computer-vision
+"Pix2Pix Tensorflow 2.0 Implementation of the paper Image-to-Image Translation using Conditional GANs by Philip Isola, Jun-Yan Zhu, Tinghui Zhou and Alexei A. Efros.",computer-vision
+Insight Project Insight is designed to create NLP as a service with code base for both front end GUI (streamlit) and backend server (FastAPI) the usage of transformers ,natural-language-processing
+Onceupon.space NLP experiment in story-telling  that creates illustrations (text to sketch) and content (text generation),natural-language-processing
+"Compression of Deep Learning Models for Text: A Survey In this survey, we discuss six different types of methods for compression of such models to enable their deployment in real industry NLP projects.",natural-language-processing
+Fine-tuning with custom datasets This tutorial will take you through several examples of using 🤗 Transformers models with your own datasets.,natural-language-processing
+"Language Interpretability Tool (LIT) The Language Interpretability Tool (LIT) is a visual, interactive model-understanding tool for NLP models.",natural-language-processing
+AI in Medicine and Imaging - Stanford Symposium 2020 Through the AIMI Symposium we hope to address gaps and barriers in the field and catalyze more evidence-based solutions to improve health for all.,computer-vision
+Great Expectations Always know what to expect from your data.,mlops
+"Effective testing for machine learning systems Why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems.",mlops
+Streamlit Terran Timeline A face-recognition timeline generator tool for any kind of video!,computer-vision
+How to Set Up Continuous Integration for Machine Learning How to Set Up Continuous Integration for Machine Learning with Github Actions and Neptune: Step by Step Guide.,mlops
+"Bad passwords and the NIST guidelines Example project provided by DataCamp. In this project, you will write code that  automatically detects and flags the bad passwords.",natural-language-processing
+"Graph Representation Learning Book Introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs.",graph-learning
+"Image Similarity Search in PyTorch Simple Convolutional Auto-encoder based image similarity
+search to find similar images to given image or features.
+Fully written in PyTorch.",computer-vision
+Tensorflow Object Detection with Tensorflow 2 Object Detection with Tensorflow 2 and the Tensorflow Object Detection API ,computer-vision
+Rules of Machine Learning: Best Practices for ML Engineering A basic knowledge of machine learning get the benefit of best practices in machine learning from around Google.,mlops
+vedaseg vedaseg is an open source semantic segmentation toolbox based on PyTorch.,computer-vision
+vedastr vedastr is an open source scene text recognition toolbox based on PyTorch.,computer-vision
+"CascadeTabNet An approach for end-to-end table detection and structure recognition from image-based documents
+",computer-vision
+"Table Detection, Information Extraction and Structuring using ML Table Extraction (TE) is the task of detecting and decomposing table information in a document.",natural-language-processing
+AxCell Automatic Extraction of Results from Machine Learning Papers,computer-vision
+"Hyperparameter Optimization for 🤗 Transformers: A Guide Basic grid search is not the most optimal, and in fact, the hyperparameters we choose can have a significant impact on our final model performance.",natural-language-processing
+GenRL GenRL is a PyTorch-First Reinforcement Learning library centered around reproducible and generalizable algorithm implementations.,reinforcement-learning
+Shift-Ctrl-F: Semantic Search for the Browser 🔎: Search the information available on a webpage using natural language instead of an exact string match.,natural-language-processing
+Spinning Up in Deep RL (OpenAI) An educational resource to help anyone learn deep reinforcement learning.,reinforcement-learning
+"An Introduction to Adversarial Examples in Deep Learning This report provides an intuitive introduction to adversarial examples, discusses a wide variety of different adversarial attacks and, most notably, provides ad",computer-vision
+Deep dive into ROI layer in Object Detection Models In this blog post we will implement in torch ROI Pool and ROI Align models from scratch.,computer-vision
+On the Bottleneck of Graph Neural Networks and its Implications The mechanism of propagating information between neighbors creates a bottleneck when every node aggregates messages from its neighbors.,graph-learning
+"Questgen- An NLP library for state-of-the-art Question Generation Questgen AI is an opensource, easy to use NLP library for Question generation. It can generate MCQs, Boolean (Yes/No), FAQs and also paraphrase any question.
+",natural-language-processing
+Unsupervised Keyphrase Extraction Learn about unsupervised algorithms for automatically extracting representative keyword and phrases from documents,natural-language-processing
+Text Data Augmentation with MarianMT Learn how to use machine translation models in Hugging Face Transformers for data augmentation.,natural-language-processing
+"Practical AI: Using NLP word embeddings to solve localization  Using NLP word vectors (word2vec, glove, etc) in a novel way to solve the problem of localization in edtech.",natural-language-processing
+Explore then Execute Adapting without Rewards via Factorized Meta-Reinforcement Learning,reinforcement-learning
+"Tensorflow, Pytorch, Transformer, Fastai, etc. Tutorials BERT Classification, Question Answering, Seq2Seq Machine Translation, Contextual Topic Modeling, Large Scale Multilabelclassification, etc",natural-language-processing
+Graph Convolutions for dummies An article explaining Graph Convolutional Networks as simply as possible.,graph-learning
+ECCV 2020: Some Highlights A sort of a snapshot of the conference by summarizing some papers (& listing some) that grabbed my attention.,computer-vision
+CVPR 2020: A Snapshot A snapshot of the conference by summarizing some papers (& listing some) that grabbed my attention.,computer-vision
+R.U.Stoked NLP (Sentiment Analysis) project to demonstrate a pipeline of data from the very first stage of data collection through ML model deployment.,natural-language-processing
+"TTT: Fine-tuning Transformers with TPUs or GPUs acceleration TTT is short for a package for fine-tuning 🤗 Transformers with TPUs, written in Tensorflow2.0+.",natural-language-processing
+MushroomRL Python library for Reinforcement Learning.,reinforcement-learning
+Wav2Lip: Accurately Lip-syncing Videos In The Wild A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild,computer-vision
+"What Is MLOps? Machine learning operations, MLOps, are best practices for businesses to run AI successfully with help from an expanding software products and cloud services.",mlops
+NLP Course | For You This is an extension to the (ML for) Natural Language Processing course I teach at the Yandex School of Data Analysis (YSDA) since fall 2018. ,natural-language-processing
+Learning to Summarize with Human Feedback Human feedback models outperform much larger supervised models and reference summaries on TL;DR,natural-language-processing
+"Latest advancements in video streaming with AI AI developments in video streaming using Super-resolution, Per-title encoding, P2P",computer-vision
+ONNX Transformers Accelerated NLP pipelines for fast inference 🚀 on CPU. Built with 🤗 Transformers and ONNX runtime.,natural-language-processing
+hugdatafast: huggingface/nlp + fastai The elegant integration of huggingface/nlp and fastai2 and handy transforms using pure huggingface/nlp ,natural-language-processing
+Top 10 Deep Learning Breakthroughs — Deep Reinforcement Learning The article unravels the journey behind reaching the point when Reinforcement Learning combined with Deep Learning defeated a Go player world champion.,reinforcement-learning
+Data analysis made easy: Text2Code for Jupyter notebook A jupyter notebook extension for Text2Code for basic pandas and plotly commands,natural-language-processing
+electra_pytorch:  ELECTRA in PyTorch (fastai + huggingface) Unofficial reimplementation of <ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators>,natural-language-processing
+Images of radio boxes I have collected about 15+k raw images of radio boxes across 500+ forms and hand-picked 200+  images that can be used to determine if a radio box is checked.,computer-vision
+omega|ml - building and deploying ML models the easy way Deploying  ML is hard. It should not be. omega|ml makes it a breeze.,mlops
+ElasticTransformers Making BERT stretchy. Semantic Elasticsearch with Sentence Transformers.,natural-language-processing
+"Fine-tune a non-English GPT-2 Model with Huggingface  In this tutorial, we are going to use the transformers library by Huggingface. We will use the new Trainer class and fine-tune out GPT-2 model.",natural-language-processing
+"Getting started with large-scale ETL jobs using Dask and AWS EMR EMR is AWS’s distributed data platform, which we can interact with and submit jobs to from a JupyterLab notebook running on our local machine.",mlops
+How to Create a Cartoonizer with TensorFlow Lite? An end-to-end tutorial on how to convert to TensorFlow Lite (TFLite) model and deploy it to an Android app for cartoonizing an image captured by camera.,computer-vision
+"How to Test Machine Learning Code and Systems 🚦 Minimal examples of testing machine learning for correct implementation, expected learned behaviour, and model performance.
+
+",mlops
+torchCDE Differentiable controlled differential equation solvers for PyTorch with GPU support and memory-efficient adjoint backpropagation.,time-series
+Latent graph neural networks: Manifold learning 2.0? Parallels between recent works on latent graph learning and older techniques of manifold learning.,graph-learning
+Real Python Recommendation Engine A full stack data science project that performs document similarity on RealPython.com content. Content recommendations are implemented via a Chrome extension.,natural-language-processing
+Graph Neural Networks A descriptive guide for Graph Neural Networks.,graph-learning
+Image Super-Resolution In this project we learn how to train a super-resolution model ESPCN on DIV2K dataset to upscale images using AI by 3x,computer-vision
+Codequestion Ask coding questions directly from the terminal.,natural-language-processing
+"End-to-end Object Detection in TensorFlow Lite This project shows how to train a custom detection model with the TFOD API, optimize it with TFLite, and perform inference with the optimized model.",computer-vision
+Jepto - Digital Marketing Analytics KPI Prediction and Anomaly Detection of digital marketing data for both technical and non-technical marketers and business owners.,time-series
+Cartoonizer with TensorFlow.js An app to turn your photos into cartoon-styled images 🎨 within your browsers using White-box Cartoonization GAN.,computer-vision
+"Implementing Content-Based Image Retrieval with Siamese Networks With content-based image retrieval, we refer to the task of finding images containing attributes which are not in the image metadata, but in its visual content.",computer-vision
+"NLP for Developers: Multilingual NLP | Rasa In this video, Rasa Developer Advocate Rachael will talk about common approaches to handle language input in more than one language.",natural-language-processing
+Paint with Machine Learning This web app allows you to create a landscape painting in the style of Bob Ross using a deep learning model served using a Spell model server.,computer-vision
+Distilling Knowledge in Neural Networks This project demonstrates the compelling model optimization technique - knowledge distillation with code walkthroughs in TensorFlow. ,computer-vision
+Recurrent Neural Networks: building GRU cells VS LSTM cells  What are the advantages of RNN’s over transformers? When to use GRU’s over LSTM? What are the equations of GRU really mean? How to build a GRU cell in Pytorch?,natural-language-processing
+G-SimCLR TensorFlow implementation of G-SimCLR. ,computer-vision
+Neural CDEs for Long Time-Series via the Log-ODE Method NCDEs for Long Time-Series via the Log-ODE Method.,time-series
+PyTorch Forecasting Time series forecasting with PyTorch.,time-series
+Norfair Lightweight Python library for adding real-time 2D object tracking to any detector.,computer-vision
+"Labelai Labelai is an online tool designed to label images, useful for training AI models.",computer-vision
+Remo 🐰 Python lib for remo - the app for annotations and images management in Computer Vision.,computer-vision
+Layered Neural Rendering for Retiming People in Video Manipulating and editing the time in which different motions of individuals in the video occur.,computer-vision
+"Part 1: Deep Representations, a way towards neural style transfer A top down approach to conceiving neural style transfer",computer-vision
+Simple Transformers: Transformers Made Easy Simple Transformers removes complexity and lets you get down to what matters – model training and experimenting with the Transformer model architectures.,natural-language-processing
+TF Geometric Efficient and Friendly Graph Neural Network Library for TensorFlow 1.x and 2.x.,graph-learning
+"Part 2: Deep Representations, a way towards neural style transfer A top-down approach to conceiving neural style transfer",computer-vision
+Sudoku Solver Solving Sudoku by extracting the puzzle from photo using Computer Vision and OCR and solving it.,computer-vision
+"3D Face: Fast, Accurate and Stable Reconstruction This work extends the previous work 3DDFA, named 3DDFA_V2, titled Towards Fast, Accurate and Stable 3D Dense Face Alignment, accepted by ECCV 2020. ",computer-vision
+"Help-Me-Read: Text Summarization using Flask and HuggingFace. Text summarization, translation and Questions Answers generation using HuggingFace and deployed using Flask, Streamlit. Detailed guide on github. ",natural-language-processing
+Interactive Analysis of Sentence Embeddings Learn how to interactively explore sentence embedding and labels in Tensorflow Embedding Projector.,natural-language-processing
+TableQA AI tool for querying  natural language on tabular data like csvs and other dataframes.,natural-language-processing
+GP-GAN: Towards Realistic High-Resolution Image Blending Blending composite images using a generative model and a Gaussian-Poisson equation with a Laplacian Pyramid,computer-vision
+From Research to Production with Deep Semi-Supervised Learning Semi-Supervised Learning (SSL) has blossomed in the deep learning research community — we share lessons learned over 15 months of taking SSL into production.,mlops
+ A spaced repetition app for keeping your reinforcement learning We aim to keep your reinforcement learning knowledge fresh by periodically reminding you of concepts making you a master of RL knowledge!!,reinforcement-learning
+GraphNorm A Principled Approach to Accelerating Graph Neural Network Training.,graph-learning
+Intro to Facebook Prophet Everything you need to know when starting out with Facebook’s time series forecasting tool,time-series
+GitHub Actions for Machine Learning This presentation discusses the use of GitHub Actions to automate certain steps of a toy ML project. ,mlops
+SemTorch Different deep learning architectures definitions that can be applied to image segmentation.,computer-vision
+bingoset - CLI tool  to create image dataset. CLI Toolkit to quickly create an image dataset using Bing Image Search API.,computer-vision
+"mini-pokedex end to end tutorial  -  Gotta classify 'em all! Build a Pokemon image classifier to classify the awesome starters Pikachu, Charmander, Squirtle, and Bulbasaur.",computer-vision
+Why Data Quality is Key to Successful ML Ops A look at ML Ops and highlight how and why data quality is key to ML Ops workflows.,mlops
+Python caching in GitHub Actions How to speed up slow Python builds in GitHub Actions with effective caching.,mlops
+EfficientDet meets Pytorch Lightning Beginner friendly guide to object detection using EfficientDet.,computer-vision
+Optimizing MobileDet for Mobile Deployments Learn about the criticalities of effectively optimizing MobileDet object detectors for mobile deployments.,computer-vision
+"Adapting Text Augmentation to Industry Problems In this post I will talk about the recent advances in exploiting language models for data generation and also show how, where we can implement them in Industry.",natural-language-processing
+Easy Data Augmentation (EDA) Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks,natural-language-processing
+12 Factors of Reproducible Machine Learning in Production We took our experience to deduce 12 factors (as a nod to the 12 factor app) that build the backbone of successful ML in production.,mlops
+Serving PyTorch models in production with the Amazon SageMaker TorchServe is now natively supported in Amazon SageMaker as the default model server for PyTorch inference. ,mlops
+How to Make Sense of the Reinforcement Learning Agents? What and Why I Log During Training and Debug?,reinforcement-learning
+"Introduction to 3D Medical Imaging: Preprocessing & Augmentations Learn how to apply 3D transformations for medical image preprocessing and augmentation, to setup your awesome deep learning pipeline.",computer-vision
+"Keeping Data Pipelines healthy w/ Great Expectations GH Actions We show you how you can use GitHub Actions together with the open source project Great Expectations to automatically test, document, and profile data pipelines.",mlops
+"Explainable ML Monitoring The video covers an overview of some of the risks of AI, the need for explainable monitoring, and what exactly we mean when we talk about it.",mlops
+Parallelizing Prophet Cross-Validation with Dask Applied Example w/ Code,time-series
+Top Research Papers from the ECML-PKDD 2020 Conference ECML-PKDD -> selectionof the best reaesch papers,reinforcement-learning
+GANs in Computer Vision Free Ebook / Article-series This free ebook/article-series follows the chronological order of 20 peer-reviewed highly-cited papers as they presented in a series of 6 articles.,computer-vision
+"Pattern-Exploiting Training (PET) This repository contains the code for ""Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference""",natural-language-processing
+Imaginaire NVIDIA PyTorch GAN library with distributed and mixed precision support.,computer-vision
+"Efficient Transformers: A Survey Characterizes a large and thoughtful selection of recent efficiency-flavored ""X-former"" models.",natural-language-processing
+"Meta-learning for Few-shot Natural Language Processing: A Survey Clear definitions, progress summary and some common datasets of applying meta-learning to few-shot NLP.",natural-language-processing
+Transection: Transformers for English to Chinese Translation 基于t Tutorials on how to fine-tune a BART based transformer for English to Chinese translation.,natural-language-processing
+A Survey of the State of Explainable AI for NLP Overview of the operations and explainability techniques currently available for generating explanations for NLP model predictions.,natural-language-processing
+Topic Modeling with BERT Leveraging 🤗 Transformers and a class-based TF-IDF to create dense clusters allowing for easily interpretable topics. ,natural-language-processing
+"OpenMMLab Computer Vision MMCV is a python library for CV research and supports many research projects such as object detection, segmentation, pose estimation, action classification.
+
+",computer-vision
+Machine Learning Methods Explained (+ Examples) Most common techniques used in data science projects; get to know them through easy-to-understand examples and put them into practice in your own ML projects!,reinforcement-learning
+"Rasoee A powerful web and mobile application that identifies food dishes from a given input image, and provides an ingredient list along with relevant recipes.",computer-vision
