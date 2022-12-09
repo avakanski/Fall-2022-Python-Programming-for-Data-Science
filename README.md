@@ -43,7 +43,7 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 25 - Deploying Projects as Web Apps/Lecture 25 - Deploying Projects as Web Apps.ipynb">Lecture 25 - Deploying Projects as Web Applications</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 10 - Virtual Environments/Tutorial 10 - Virtual Environments.ipynb">Tutorial 10 - Virtual Environments</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 26 - Deploying Projects to the Cloud/Lecture 26 - Deploying Projects to the Cloud.ipynb">Lecture 26 - Deploying Projects to the Cloud</a>
-* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 27 - DSOps/Lecture 27 - DSOps.pdf">Lecture 27 - Introduction to Data Science Operations (DSOps)</a>
+* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 27 - DSOps/Lecture 27 - Introduction to Data Science Operations (DSOps).pdf">Lecture 27 - Introduction to Data Science Operations (DSOps)</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 11 - CometML/CometML.ipynb">Tutorial 11 - CometML</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 28 - Reproducible DS Projects/Lecture 28 - Reproducible DS Projects.ipynb">Lecture 28 - Reproducible Data Science Projects</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 29 - Monitoring Performance/Lecture 29 - Monitoring Performance.ipynb">Lecture 29 - Monitoring Performance</a>
