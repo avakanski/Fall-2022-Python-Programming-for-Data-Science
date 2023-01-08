@@ -23,13 +23,13 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 10 - Data Manipulation with Pandas/Lecture 10 - Data Manipulation with Pandas.ipynb">Lecture 10 - Data Manipulation with Pandas</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 11 - Data Visualization with Matplotlib/Lecture 11 - Data Visualization with Matplotlib.ipynb">Lecture 11 - Data Visualization with Matplotlib</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 12 - Scikit-Learn for Data Science/Lecture 12 - Scikit-Learn for Data Science.ipynb">Lecture 12 - Scikit-Learn Library for Data Science</a>
-* <a href="Lectures/Theme 2 - Data Engineering Pipelines/Tutorial 4 - TensorFlow/Tutorial 4 - TensorFlow.ipynb">Tutorial 4 - TensorFlow</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 13 - Data Exploration and Preprocessing/Lecture 13 - Data Exploration and Preprocessing.ipynb">Lecture 13 - Data Exploration and Preprocessing</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 14 - Feature Engineering/Lecture 14 - Feature Engineering.ipynb">Lecture 14 - Feature Engineering</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 24 - SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 9 - Web Scraping/Tutorial 9 - Web Scraping.ipynb">Tutorial 9 - Web Scraping</a>
 ## Theme 3: Model Engineering Pipelines
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 15 - Ensemble Methods/Lecture 15 - Ensemble Methods.ipynb">Lecture 15 - Ensemble Methods</a>
+* <a href="Lectures/Theme 2 - Data Engineering Pipelines/Tutorial 4 - TensorFlow/Tutorial 4 - TensorFlow.ipynb">Tutorial 4 - TensorFlow</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 16 - Convolutional Neural Networks/Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Tutorial 5 - PyTorch/Tutorial 5 - PyTorch.ipynb">Tutorial 5 - PyTorch</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 17 - Convolutional NN with PyTorch/Lecture 17 - Convolutional NN with PyTorch.ipynb">Lecture 17 - Convolutional Neural Networks with PyTorch</a>
@@ -48,9 +48,6 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 28 - Reproducible DS Projects/Lecture 28 - Reproducible DS Projects.ipynb">Lecture 28 - Reproducible Data Science Projects</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 29 - Monitoring Performance/Lecture 29 - Monitoring Performance.ipynb">Lecture 29 - Monitoring Performance</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 30 - Continuous Deployment/Lecture 30 - Continuous Deployment.pdf">Lecture 30 - Continuous Deployment</a>
-
-
-
 
 # Course Description
 With the increased use of data science projects for improving various functions and operations across organizations, the tools for managing such projects have matured as well. This course introduces students to Python tools and libraries that are commonly used by organizations for management of the different phases in the life cycle of data science projects. The content is divided into four main themes. The first theme reviews the basics of Python programming and extends it with advanced concepts. The second theme focuses on data engineering, and covers Python tools for data collection and exploration. The next theme overviews model engineering, and includes model design, training, testing, optimization, and packaging. The last theme introduces Data Science Operations (DSOps), and covers techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production.
