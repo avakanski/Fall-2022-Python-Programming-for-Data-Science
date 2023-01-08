@@ -33,15 +33,14 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 16 - Convolutional Neural Networks/Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Tutorial 5 - PyTorch/Tutorial 5 - PyTorch.ipynb">Tutorial 5 - PyTorch</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 17 - Convolutional NN with PyTorch/Lecture 17 - Convolutional NN with PyTorch.ipynb">Lecture 17 - Convolutional Neural Networks with PyTorch</a>
+* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Tutorial 7 - TensorFlow Datasets/Tutorial 7 - TensorFlow Datasets.ipynb">Tutorial 7 - TensorFlow Datasets</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 18 - Natural Language Processing/Lecture 18 - Natural Language Processing.ipynb">Lecture 18 - Natural Language Processing</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 19 - Transformer Networks/Lecture 19 - Transformer Networks.ipynb">Lecture 19 - Transformer Networks</a>
-* <a href="Lectures/Theme 3 - Model Engineering Pipelines/Tutorial 7 - TensorFlow Datasets/Tutorial 7 - TensorFlow Datasets.ipynb">Tutorial 7 - TensorFlow Datasets</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 20 - Language Models with Hugging Face/Lecture 20 - Language Models with Hugging Face.ipynb">Lecture 20 - Language Models with Hugging Face</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 21 - Model Selection, Hyperparameter Tuning/Lecture 21 - Model Selection, Hyperparameter Tuning.ipynb">Lecture 21 - Model Selection, Hyperparameter Tuning</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 22 - Diffusion Models/Lecture 22 - Diffusion Models.ipynb">Lecture 22 - Diffusion Models for Text-to-Image Generation</a>
 ## Theme 4: Model Deployment Pipelines
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 25 - Deploying Projects as Web Apps/Lecture 25 - Deploying Projects as Web Apps.ipynb">Lecture 25 - Deploying Projects as Web Applications</a>
-
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 26 - Deploying Projects to the Cloud/Lecture 26 - Deploying Projects to the Cloud.ipynb">Lecture 26 - Deploying Projects to the Cloud</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 27 - DSOps/Lecture 27 - Intro to Data Science Operations (DSOps).pdf">Lecture 27 - Introduction to Data Science Operations (DSOps)</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 10 - Virtual Environments/Tutorial 10 - Virtual Environments.ipynb">Tutorial 10 - Virtual Environments</a>
