@@ -26,6 +26,8 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Tutorial 4 - TensorFlow/Tutorial 4 - TensorFlow.ipynb">Tutorial 4 - TensorFlow</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 13 - Data Exploration and Preprocessing/Lecture 13 - Data Exploration and Preprocessing.ipynb">Lecture 13 - Data Exploration and Preprocessing</a>
 * <a href="Lectures/Theme 2 - Data Engineering Pipelines/Lecture 14 - Feature Engineering/Lecture 14 - Feature Engineering.ipynb">Lecture 14 - Feature Engineering</a>
+* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 24 - SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
+* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 9 - Web Scraping/Tutorial 9 - Web Scraping.ipynb">Tutorial 9 - Web Scraping</a>
 ## Theme 3: Model Engineering Pipelines
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 15 - Ensemble Methods/Lecture 15 - Ensemble Methods.ipynb">Lecture 15 - Ensemble Methods</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 16 - Convolutional Neural Networks/Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow.ipynb">Lecture 16 - Convolutional Neural Networks with Keras and TensorFlow</a>
@@ -38,8 +40,6 @@ Semester: Fall 2022 (August 22 – December 16)
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 21 - Model Selection, Hyperparameter Tuning/Lecture 21 - Model Selection, Hyperparameter Tuning.ipynb">Lecture 21 - Model Selection, Hyperparameter Tuning</a>
 * <a href="Lectures/Theme 3 - Model Engineering Pipelines/Lecture 22 - Diffusion Models/Lecture 22 - Diffusion Models.ipynb">Lecture 22 - Diffusion Models for Text-to-Image Generation</a>
 ## Theme 4: Model Deployment Pipelines
-* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 24 - SQL/Lecture 24 - SQL.ipynb">Lecture 24 - Databases and SQL</a>
-* <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 9 - Web Scraping/Tutorial 9 - Web Scraping.ipynb">Tutorial 9 - Web Scraping</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 25 - Deploying Projects as Web Apps/Lecture 25 - Deploying Projects as Web Apps.ipynb">Lecture 25 - Deploying Projects as Web Applications</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Tutorial 10 - Virtual Environments/Tutorial 10 - Virtual Environments.ipynb">Tutorial 10 - Virtual Environments</a>
 * <a href="Lectures/Theme 4 - Model Deployment Pipelines/Lecture 26 - Deploying Projects to the Cloud/Lecture 26 - Deploying Projects to the Cloud.ipynb">Lecture 26 - Deploying Projects to the Cloud</a>
