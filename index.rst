@@ -15,8 +15,7 @@ Lectures:
 =========
 
 
-:ref: 'Lectures/Theme 1 - Python Programming/Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb'
-:ref: 'Lectures/Theme 1 - Python Programming/Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb'
+'Lecture 2 - Data Types<Lectures/Theme 1 - Python Programming/Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb>'_
 
 .. toctree::
    :caption: Theme 1: Python Programming
