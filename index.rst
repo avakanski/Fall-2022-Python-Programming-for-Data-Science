@@ -14,6 +14,16 @@ Course Syllabus
 Lectures:
 =========
 
+.. toctree::
+   :caption: Theme 1: Python Programming
+   :maxdepth: 2
+
+   Lectures/Theme 1 - Python Programming/Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb
+   Lectures/Theme 1 - Python Programming/Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb
+   Lectures/Theme 1 - Python Programming/Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb
+   Lectures/Theme 1 - Python Programming/Lecture 5 - Object-Oriented Programming/Lecture 5 - OOP.ipynb
+
+
 -  Lecture 1 - A Short History and Current State of Artificial
    Intelligence ## Theme 1: Python Programming
 -  Lecture 2 - Data Types in Python
